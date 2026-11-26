@@ -1,0 +1,125 @@
+{
+  "decision": [
+    {
+      "channel": "gcc_90",
+      "method": "mean change alone",
+      "issues": 74,
+      "picks": 222,
+      "mean_shift": 0.01208,
+      "hit_rate": 0.3514
+    },
+    {
+      "channel": "gcc_90",
+      "method": "planner",
+      "issues": 74,
+      "picks": 222,
+      "mean_shift": 0.01235,
+      "hit_rate": 0.3739
+    },
+    {
+      "channel": "gcc_90",
+      "method": "planner, fixed day 7",
+      "issues": 74,
+      "picks": 222,
+      "mean_shift": 0.01292,
+      "hit_rate": 0.3964
+    },
+    {
+      "channel": "gcc_90",
+      "method": "recent trend",
+      "issues": 74,
+      "picks": 222,
+      "mean_shift": 0.01081,
+      "hit_rate": 0.3288
+    },
+    {
+      "channel": "rcc_90",
+      "method": "mean change alone",
+      "issues": 74,
+      "picks": 222,
+      "mean_shift": 0.02556,
+      "hit_rate": 0.6171
+    },
+    {
+      "channel": "rcc_90",
+      "method": "planner",
+      "issues": 74,
+      "picks": 222,
+      "mean_shift": 0.02472,
+      "hit_rate": 0.5676
+    },
+    {
+      "channel": "rcc_90",
+      "method": "planner, fixed day 7",
+      "issues": 74,
+      "picks": 222,
+      "mean_shift": 0.02553,
+      "hit_rate": 0.5495
+    },
+    {
+      "channel": "rcc_90",
+      "method": "recent trend",
+      "issues": 74,
+      "picks": 222,
+      "mean_shift": 0.02348,
+      "hit_rate": 0.5991
+    }
+  ],
+  "coverage": {
+    "gcc_90": 0.8288,
+    "rcc_90": 0.8645
+  },
+  "forecast": {
+    "2024": {
+      "sites": 14,
+      "origins": 26,
+      "values": 20834,
+      "model": {
+        "crps": 0.007781136332236962,
+        "mae": 0.010023091291022536
+      },
+      "current": {
+        "crps": 0.011333720275534984,
+        "mae": 0.014199126667946626
+      },
+      "season": {
+        "crps": 0.009596565024684731,
+        "mae": 0.012614663744408996
+      }
+    },
+    "2025": {
+      "sites": 14,
+      "origins": 26,
+      "values": 20054,
+      "model": {
+        "crps": 0.007411469994457166,
+        "mae": 0.009609414548025006
+      },
+      "current": {
+        "crps": 0.010354408812382424,
+        "mae": 0.012743120823775805
+      },
+      "season": {
+        "crps": 0.009470434636056197,
+        "mae": 0.012464466580459717
+      }
+    },
+    "2026": {
+      "sites": 14,
+      "origins": 22,
+      "values": 18044,
+      "model": {
+        "crps": 0.007413362154675306,
+        "mae": 0.009786347429557286
+      },
+      "current": {
+        "crps": 0.010662554846054927,
+        "mae": 0.013179040401241408
+      },
+      "season": {
+        "crps": 0.00949608992844957,
+        "mae": 0.012871115984060107
+      }
+    }
+  }
+}

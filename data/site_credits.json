@@ -1,0 +1,86 @@
+[
+  {
+    "site": "DCFS",
+    "camera": "NEON.D09.DCFS.DP1.00033",
+    "url": "https://phenocam.nau.edu/webcam/sites/NEON.D09.DCFS.DP1.00033/",
+    "acknowledgment": "The NEON Data Usage and Citation Policy can be found at: http://data.neonscience.org/data-policy. NEON is a project sponsored by the National Science Foundation and operated under cooperative agreement by Battelle."
+  },
+  {
+    "site": "DSNY",
+    "camera": "NEON.D03.DSNY.DP1.00033",
+    "url": "https://phenocam.nau.edu/webcam/sites/NEON.D03.DSNY.DP1.00033/",
+    "acknowledgment": "The NEON Data Usage and Citation Policy can be found at: http://data.neonscience.org/data-policy. NEON is a project sponsored by the National Science Foundation and operated under cooperative agreement by Battelle."
+  },
+  {
+    "site": "GUAN",
+    "camera": "NEON.D04.GUAN.DP1.00033",
+    "url": "https://phenocam.nau.edu/webcam/sites/NEON.D04.GUAN.DP1.00033/",
+    "acknowledgment": "The NEON Data Usage and Citation Policy can be found at: http://data.neonscience.org/data-policy. NEON is a project sponsored by the National Science Foundation and operated under cooperative agreement by Battelle."
+  },
+  {
+    "site": "KONA",
+    "camera": "NEON.D06.KONA.DP1.00033",
+    "url": "https://phenocam.nau.edu/webcam/sites/NEON.D06.KONA.DP1.00033/",
+    "acknowledgment": "11/20 (324)"
+  },
+  {
+    "site": "KONZ",
+    "camera": "NEON.D06.KONZ.DP1.00033",
+    "url": "https://phenocam.nau.edu/webcam/sites/NEON.D06.KONZ.DP1.00033/",
+    "acknowledgment": "The NEON Data Usage and Citation Policy can be found at: http://data.neonscience.org/data-policy. NEON is a project sponsored by the National Science Foundation and operated under cooperative agreement by Battelle."
+  },
+  {
+    "site": "ONAQ",
+    "camera": "NEON.D15.ONAQ.DP1.00033",
+    "url": "https://phenocam.nau.edu/webcam/sites/NEON.D15.ONAQ.DP1.00033/",
+    "acknowledgment": "The NEON Data Usage and Citation Policy can be found at: http://data.neonscience.org/data-policy. NEON is a project sponsored by the National Science Foundation and operated under cooperative agreement by Battelle."
+  },
+  {
+    "site": "RMNP",
+    "camera": "NEON.D10.RMNP.DP1.00033",
+    "url": "https://phenocam.nau.edu/webcam/sites/NEON.D10.RMNP.DP1.00033/",
+    "acknowledgment": "The NEON Data Usage and Citation Policy can be found at: http://data.neonscience.org/data-policy. NEON is a project sponsored by the National Science Foundation and operated under cooperative agreement by Battelle."
+  },
+  {
+    "site": "SJER",
+    "camera": "NEON.D17.SJER.DP1.00033",
+    "url": "https://phenocam.nau.edu/webcam/sites/NEON.D17.SJER.DP1.00033/",
+    "acknowledgment": "The NEON Data Usage and Citation Policy can be found at: http://data.neonscience.org/data-policy. NEON is a project sponsored by the National Science Foundation and operated under cooperative agreement by Battelle."
+  },
+  {
+    "site": "SRER",
+    "camera": "NEON.D14.SRER.DP1.00033",
+    "url": "https://phenocam.nau.edu/webcam/sites/NEON.D14.SRER.DP1.00033/",
+    "acknowledgment": "The NEON Data Usage and Citation Policy can be found at: http://data.neonscience.org/data-policy. NEON is a project sponsored by the National Science Foundation and operated under cooperative agreement by Battelle."
+  },
+  {
+    "site": "STEI",
+    "camera": "NEON.D05.STEI.DP1.00033",
+    "url": "https://phenocam.nau.edu/webcam/sites/NEON.D05.STEI.DP1.00033/",
+    "acknowledgment": "The NEON Data Usage and Citation Policy can be found at: http://data.neonscience.org/data-policy. NEON is a project sponsored by the National Science Foundation and operated under cooperative agreement by Battelle."
+  },
+  {
+    "site": "TREE",
+    "camera": "NEON.D05.TREE.DP1.00033",
+    "url": "https://phenocam.nau.edu/webcam/sites/NEON.D05.TREE.DP1.00033/",
+    "acknowledgment": "The NEON Data Usage and Citation Policy can be found at: http://data.neonscience.org/data-policy. NEON is a project sponsored by the National Science Foundation and operated under cooperative agreement by Battelle."
+  },
+  {
+    "site": "UKFS",
+    "camera": "NEON.D06.UKFS.DP1.00033",
+    "url": "https://phenocam.nau.edu/webcam/sites/NEON.D06.UKFS.DP1.00033/",
+    "acknowledgment": "The NEON Data Usage and Citation Policy can be found at: http://data.neonscience.org/data-policy. NEON is a project sponsored by the National Science Foundation and operated under cooperative agreement by Battelle."
+  },
+  {
+    "site": "UNDE",
+    "camera": "NEON.D05.UNDE.DP1.00033",
+    "url": "https://phenocam.nau.edu/webcam/sites/NEON.D05.UNDE.DP1.00033/",
+    "acknowledgment": "The NEON Data Usage and Citation Policy can be found at: http://data.neonscience.org/data-policy. NEON is a project sponsored by the National Science Foundation and operated under cooperative agreement by Battelle."
+  },
+  {
+    "site": "WOOD",
+    "camera": "NEON.D09.WOOD.DP1.00033",
+    "url": "https://phenocam.nau.edu/webcam/sites/NEON.D09.WOOD.DP1.00033/",
+    "acknowledgment": "The NEON Data Usage and Citation Policy can be found at: http://data.neonscience.org/data-policy. NEON is a project sponsored by the National Science Foundation and operated under cooperative agreement by Battelle."
+  }
+]

@@ -1,0 +1,111 @@
+{
+  "spring_green": {
+    "rows": [
+      {
+        "priority": "1",
+        "site": "STEI",
+        "site_name": "Steigerwaldt-Chequamegon",
+        "historical_issue": "2025-05-08",
+        "image_date": "2025-05-15",
+        "index": "gcc_90",
+        "baseline": "0.35067",
+        "forecast_mean": "0.39732",
+        "forecast_sd": "0.00759",
+        "conservative_shift": "0.04026",
+        "threshold": "0.01",
+        "model_flag": "flagged",
+        "visual_review": "Unreviewed",
+        "observed_index": "0.44603",
+        "before_image": "https://phenocam.nau.edu/data/archive/NEON.D05.STEI.DP1.00033/2025/05/NEON.D05.STEI.DP1.00033_2025_05_06_120005.jpg",
+        "after_image": "https://phenocam.nau.edu/data/archive/NEON.D05.STEI.DP1.00033/2025/05/NEON.D05.STEI.DP1.00033_2025_05_15_120005.jpg"
+      },
+      {
+        "priority": "2",
+        "site": "UKFS",
+        "site_name": "University of Kansas Field Station",
+        "historical_issue": "2025-05-08",
+        "image_date": "2025-05-15",
+        "index": "gcc_90",
+        "baseline": "0.40490",
+        "forecast_mean": "0.43302",
+        "forecast_sd": "0.00634",
+        "conservative_shift": "0.02278",
+        "threshold": "0.01",
+        "model_flag": "flagged",
+        "visual_review": "Unreviewed",
+        "observed_index": "0.42732",
+        "before_image": "https://phenocam.nau.edu/data/archive/NEON.D06.UKFS.DP1.00033/2025/05/NEON.D06.UKFS.DP1.00033_2025_05_06_120005.jpg",
+        "after_image": "https://phenocam.nau.edu/data/archive/NEON.D06.UKFS.DP1.00033/2025/05/NEON.D06.UKFS.DP1.00033_2025_05_15_120005.jpg"
+      },
+      {
+        "priority": "3",
+        "site": "TREE",
+        "site_name": "Treehaven",
+        "historical_issue": "2025-05-08",
+        "image_date": "2025-05-15",
+        "index": "gcc_90",
+        "baseline": "0.34472",
+        "forecast_mean": "0.37343",
+        "forecast_sd": "0.00760",
+        "conservative_shift": "0.02232",
+        "threshold": "0.01",
+        "model_flag": "flagged",
+        "visual_review": "Unreviewed",
+        "observed_index": "0.42497",
+        "before_image": "https://phenocam.nau.edu/data/archive/NEON.D05.TREE.DP1.00033/2025/05/NEON.D05.TREE.DP1.00033_2025_05_06_120005.jpg",
+        "after_image": "https://phenocam.nau.edu/data/archive/NEON.D05.TREE.DP1.00033/2025/05/NEON.D05.TREE.DP1.00033_2025_05_15_120006.jpg"
+      }
+    ],
+    "sha256": "b8a44121aeabeac4b954b4d116a70f824c1d6f3ce8ba3fc8b3501787fc4d4508"
+  },
+  "official_camera_regions": {
+    "spring_masks_aligned": [
+      true,
+      true
+    ],
+    "later_outcome_hidden": true,
+    "source_links": 2,
+    "toggle_returns_original": true
+  },
+  "repeat_and_persistence": {
+    "identical_csv": true,
+    "mark_after_reload": true
+  },
+  "spring_known_outcome": "Observed on 15 May: 0.446 \u00b7 actual change +0.095 \u00b7 predicted +0.047",
+  "autumn_wrong_direction": {
+    "top": "TREE",
+    "actual": "Observed on 16 Oct: 0.515 \u00b7 actual change +0.012 \u00b7 predicted \u22120.083"
+  },
+  "all_autumn_pairs": {
+    "count": 14,
+    "sites": [
+      "TREE",
+      "KONZ",
+      "UNDE",
+      "DSNY",
+      "STEI",
+      "UKFS",
+      "GUAN",
+      "SJER",
+      "SRER",
+      "KONA",
+      "DCFS",
+      "WOOD",
+      "RMNP",
+      "ONAQ"
+    ]
+  },
+  "date_out_of_range": "Date outside this archive",
+  "search_no_match": "No matching camera",
+  "previous_mark_survives_errors": true,
+  "changed_all_outcomes_replay": {
+    "ranks_dates_unchanged": true
+  },
+  "missing_photo_excluded": true,
+  "mobile": {
+    "width": 390,
+    "horizontal_overflow": false
+  },
+  "storage_disabled_export": true,
+  "uncaught_javascript_errors": []
+}

@@ -1,0 +1,15 @@
+field_site_id,field_site_name,phenocam_code,phenocam_roi,phenocam_vegetation,field_latitude,field_longitude,field_site_state,neon_url
+DCFS,Dakota Coteau Field Site NEON,NEON.D09.DCFS.DP1.00033,GR_1000,grassland,47.16165,-99.10656,ND,https://www.neonscience.org/field-sites/dcfs
+DSNY,Disney Wilderness Preserve NEON,NEON.D03.DSNY.DP1.00033,GR_1000,grassland,28.12505,-81.43619,FL,https://www.neonscience.org/field-sites/dsny
+GUAN,Guanica Forest NEON,NEON.D04.GUAN.DP1.00033,EB_1000,evergreen broadleaf,17.96955,-66.8687,PR,https://www.neonscience.org/field-sites/guan
+KONA,Konza Prairie Agroecosystem NEON,NEON.D06.KONA.DP1.00033,AG_1000,agriculture,39.110446,-96.612935,KS,https://www.neonscience.org/field-sites/kona
+KONZ,Konza Prairie Biological Station NEON,NEON.D06.KONZ.DP1.00033,GR_1000,grassland,39.100774,-96.563075,KS,https://www.neonscience.org/field-sites/konz
+ONAQ,Onaqui NEON,NEON.D15.ONAQ.DP1.00033,SH_1000,shrubland,40.177599,-112.45245,UT,https://www.neonscience.org/field-sites/onaq
+RMNP,Rocky Mountains NEON,NEON.D10.RMNP.DP1.00033,EN_1000,evergreen needleleaf,40.275903,-105.54596,CO,https://www.neonscience.org/field-sites/rmnp
+SJER,San Joaquin Experimental Range NEON,NEON.D17.SJER.DP1.00033,EN_2000,evergreen needleleaf,37.10878,-119.73228,CA,https://www.neonscience.org/field-sites/sjer
+SRER,Santa Rita Experimental Range NEON,NEON.D14.SRER.DP1.00033,SH_1000,shrubland,31.91068,-110.83549,AZ,https://www.neonscience.org/field-sites/srer
+STEI,Steigerwaldt-Chequamegon NEON,NEON.D05.STEI.DP1.00033,DB_1000,deciduous broadleaf,45.50894,-89.58637,WI,https://www.neonscience.org/field-sites/stei
+TREE,Treehaven NEON,NEON.D05.TREE.DP1.00033,DB_1000,deciduous broadleaf,45.49369,-89.58571,WI,https://www.neonscience.org/field-sites/tree
+UKFS,University of Kansas Field Station NEON,NEON.D06.UKFS.DP1.00033,DB_1000,deciduous broadleaf,39.040431,-95.19215,KS,https://www.neonscience.org/field-sites/ukfs
+UNDE,University of Notre Dame Environmental Research Center NEON,NEON.D05.UNDE.DP1.00033,DB_1000,deciduous broadleaf,46.23391,-89.537254,MI,https://www.neonscience.org/field-sites/unde
+WOOD,Chase Lake National Wildlife Refuge NEON,NEON.D09.WOOD.DP1.00033,GR_1000,grassland,47.1282,-99.241334,ND,https://www.neonscience.org/field-sites/wood

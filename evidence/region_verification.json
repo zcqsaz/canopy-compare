@@ -1,0 +1,18 @@
+{
+  "archived_photos": 208,
+  "sites": 14,
+  "status_counts": {
+    "archive frame differs from published midday frame": 1,
+    "published colour could not be reproduced": 10,
+    "verified": 197
+  },
+  "matched_sites": 14,
+  "unique_matched_masks": 14,
+  "multiple_candidates_uniquely_resolved": 16,
+  "comparison": "For the same verified photos, maximum absolute error across published PhenoCam midday R/G/B means in 8-bit channel units.",
+  "matched_mask_median_error": 0.004238,
+  "matched_mask_largest_error": 0.967212,
+  "whole_photo_median_error": 32.948402,
+  "whole_photo_within_one_count": 0,
+  "verification_rule": "Exact midday source filename and original SHA-256; same dimensions as a dated binary mask; exactly one candidate within one count for all three channels."
+}

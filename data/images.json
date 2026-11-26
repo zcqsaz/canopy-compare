@@ -1,0 +1,1458 @@
+{
+  "2025-05-08/DCFS": {
+    "file": "images/DCFS-2025-05-06.jpg",
+    "date": "2025-05-06",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D09.DCFS.DP1.00033/2025/05/NEON.D09.DCFS.DP1.00033_2025_05_06_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "d38cf02f234de9cf8d965cb3b51e379862fbd22c36d20523373a75739cee0aa1"
+  },
+  "2025-05-08/DCFS/2025-05-09": {
+    "file": "images/DCFS-2025-05-09.jpg",
+    "date": "2025-05-09",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D09.DCFS.DP1.00033/2025/05/NEON.D09.DCFS.DP1.00033_2025_05_09_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "75a8336e08fd45485e6f5bb7dcfcc6347bba9ef5c2d7a7c9d81ca4a7e74954c1"
+  },
+  "2025-05-08/DCFS/2025-05-10": {
+    "file": "images/DCFS-2025-05-10.jpg",
+    "date": "2025-05-10",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D09.DCFS.DP1.00033/2025/05/NEON.D09.DCFS.DP1.00033_2025_05_10_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "5286082502b04323b2fa5a41986b2eec77b1841b4baabaa82f558f0ae471aa44"
+  },
+  "2025-05-08/DCFS/2025-05-11": {
+    "file": "images/DCFS-2025-05-11.jpg",
+    "date": "2025-05-11",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D09.DCFS.DP1.00033/2025/05/NEON.D09.DCFS.DP1.00033_2025_05_11_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "8f810eb77cb52b0bc91a1f39e0f90a0e366aefdf4cbc649491dcf6bc4ba1b0a7"
+  },
+  "2025-05-08/DCFS/2025-05-12": {
+    "file": "images/DCFS-2025-05-12.jpg",
+    "date": "2025-05-12",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D09.DCFS.DP1.00033/2025/05/NEON.D09.DCFS.DP1.00033_2025_05_12_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "ca4fc9853c4f1bfdb88ea1850190fb3fb4f4ca5c2ef165ad3667d31e28b3bbe9"
+  },
+  "2025-05-08/DCFS/2025-05-13": {
+    "file": "images/DCFS-2025-05-13.jpg",
+    "date": "2025-05-13",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D09.DCFS.DP1.00033/2025/05/NEON.D09.DCFS.DP1.00033_2025_05_13_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "69479ed7cd758c3e2be4d50db24c7e11200318b5812d137a5570390e1bf3b1d3"
+  },
+  "2025-05-08/DCFS/2025-05-14": {
+    "file": "images/DCFS-2025-05-14.jpg",
+    "date": "2025-05-14",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D09.DCFS.DP1.00033/2025/05/NEON.D09.DCFS.DP1.00033_2025_05_14_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "47157f5e2f4c84cf34d4b6ed2f5dc1099753d87a78fdde332f303bdf009e83ec"
+  },
+  "2025-05-08/DCFS/2025-05-15": {
+    "file": "images/DCFS-2025-05-15.jpg",
+    "date": "2025-05-15",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D09.DCFS.DP1.00033/2025/05/NEON.D09.DCFS.DP1.00033_2025_05_15_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "5011dd7da5c97d642c91f0668bcfffb001beff466ba9852d8a55a355051a53c1"
+  },
+  "2025-05-08/DSNY": {
+    "file": "images/DSNY-2025-05-06.jpg",
+    "date": "2025-05-06",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D03.DSNY.DP1.00033/2025/05/NEON.D03.DSNY.DP1.00033_2025_05_06_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "9835f42106e696722744d46eef09b40568055bf917b99a70ecfb05095a64dc07"
+  },
+  "2025-05-08/DSNY/2025-05-09": {
+    "file": "images/DSNY-2025-05-09.jpg",
+    "date": "2025-05-09",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D03.DSNY.DP1.00033/2025/05/NEON.D03.DSNY.DP1.00033_2025_05_09_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "354969cc30ac1b8db65384d1db691fc8355bb4e872844e91a475859999ee86ae"
+  },
+  "2025-05-08/DSNY/2025-05-10": {
+    "file": "images/DSNY-2025-05-10.jpg",
+    "date": "2025-05-10",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D03.DSNY.DP1.00033/2025/05/NEON.D03.DSNY.DP1.00033_2025_05_10_120006.jpg",
+    "local_time": "12:00",
+    "original_sha256": "4057928876fad8da832c3d41f372f9b0687a8f95a0a9f9a42b2bfc73d61a9eeb"
+  },
+  "2025-05-08/DSNY/2025-05-11": {
+    "file": "images/DSNY-2025-05-11.jpg",
+    "date": "2025-05-11",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D03.DSNY.DP1.00033/2025/05/NEON.D03.DSNY.DP1.00033_2025_05_11_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "b7c7c8a29727f359bde1691779f4bd6e2a6e5f88ec79c2e142dff7ce34ef0d74"
+  },
+  "2025-05-08/DSNY/2025-05-12": {
+    "file": "images/DSNY-2025-05-12.jpg",
+    "date": "2025-05-12",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D03.DSNY.DP1.00033/2025/05/NEON.D03.DSNY.DP1.00033_2025_05_12_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "0cab7d701e63eaaaf09e36e5e2c4ef331cadac8f0b6845c9a956aed2c2064596"
+  },
+  "2025-05-08/DSNY/2025-05-13": {
+    "file": "images/DSNY-2025-05-13.jpg",
+    "date": "2025-05-13",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D03.DSNY.DP1.00033/2025/05/NEON.D03.DSNY.DP1.00033_2025_05_13_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "c1c5cfdb004994c537dd5f5d346168abda7cdd7d3be72ae935b52f21a2a87585"
+  },
+  "2025-05-08/DSNY/2025-05-14": {
+    "file": "images/DSNY-2025-05-14.jpg",
+    "date": "2025-05-14",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D03.DSNY.DP1.00033/2025/05/NEON.D03.DSNY.DP1.00033_2025_05_14_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "52192167a0e582cf0ed9b37bb43555dbda31a12d324f127095bd7a64805c8c63"
+  },
+  "2025-05-08/DSNY/2025-05-15": {
+    "file": "images/DSNY-2025-05-15.jpg",
+    "date": "2025-05-15",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D03.DSNY.DP1.00033/2025/05/NEON.D03.DSNY.DP1.00033_2025_05_15_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "3b81b90da7f3163f3bd61c5130fefb59496acd2efccbc96c1fe67e49915c02b2"
+  },
+  "2025-05-08/GUAN": {
+    "file": "images/GUAN-2025-05-06.jpg",
+    "date": "2025-05-06",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D04.GUAN.DP1.00033/2025/05/NEON.D04.GUAN.DP1.00033_2025_05_06_120004.jpg",
+    "local_time": "12:00",
+    "original_sha256": "d268bec7ebe26e803c04eebabfdd537bd995db96c4533685c94a40a845b266de"
+  },
+  "2025-05-08/GUAN/2025-05-09": {
+    "file": "images/GUAN-2025-05-09.jpg",
+    "date": "2025-05-09",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D04.GUAN.DP1.00033/2025/05/NEON.D04.GUAN.DP1.00033_2025_05_09_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "4ac6e5bc187cda35cea05f4e68b13b923bb15da790932ef7d45ffa6835f85788"
+  },
+  "2025-05-08/GUAN/2025-05-10": {
+    "file": "images/GUAN-2025-05-10.jpg",
+    "date": "2025-05-10",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D04.GUAN.DP1.00033/2025/05/NEON.D04.GUAN.DP1.00033_2025_05_10_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "d9380d5648091173b419c42b078bc87841c08ee1134a7677dbef4aaeec60325c"
+  },
+  "2025-05-08/GUAN/2025-05-11": {
+    "file": "images/GUAN-2025-05-11.jpg",
+    "date": "2025-05-11",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D04.GUAN.DP1.00033/2025/05/NEON.D04.GUAN.DP1.00033_2025_05_11_120004.jpg",
+    "local_time": "12:00",
+    "original_sha256": "d6f15c2462a7b4cdd16d64c1f4ce09d00e05d619aad9beb3a0011106dd607d84"
+  },
+  "2025-05-08/GUAN/2025-05-12": {
+    "file": "images/GUAN-2025-05-12.jpg",
+    "date": "2025-05-12",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D04.GUAN.DP1.00033/2025/05/NEON.D04.GUAN.DP1.00033_2025_05_12_120004.jpg",
+    "local_time": "12:00",
+    "original_sha256": "059842a390577b56750e6e6a80d0aeca2299059024ccb5eb9726e0ad952f98d3"
+  },
+  "2025-05-08/GUAN/2025-05-13": {
+    "file": "images/GUAN-2025-05-13.jpg",
+    "date": "2025-05-13",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D04.GUAN.DP1.00033/2025/05/NEON.D04.GUAN.DP1.00033_2025_05_13_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "97d702ec36ed7bee8e5c5a534dfec99517f92750dd4072b8d66e6200e4ac6d75"
+  },
+  "2025-05-08/GUAN/2025-05-14": {
+    "file": "images/GUAN-2025-05-14.jpg",
+    "date": "2025-05-14",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D04.GUAN.DP1.00033/2025/05/NEON.D04.GUAN.DP1.00033_2025_05_14_120006.jpg",
+    "local_time": "12:00",
+    "original_sha256": "61debefcb1239baddf4897194c4f50637386b4c39b79d82b9aac5a56d7b934f4"
+  },
+  "2025-05-08/GUAN/2025-05-15": {
+    "file": "images/GUAN-2025-05-15.jpg",
+    "date": "2025-05-15",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D04.GUAN.DP1.00033/2025/05/NEON.D04.GUAN.DP1.00033_2025_05_15_120004.jpg",
+    "local_time": "12:00",
+    "original_sha256": "25edb810d328194c09603b19c56297d098f544ba66f850a0af88dcf34d1a44b4"
+  },
+  "2025-05-08/KONZ": {
+    "file": "images/KONZ-2025-05-06.jpg",
+    "date": "2025-05-06",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D06.KONZ.DP1.00033/2025/05/NEON.D06.KONZ.DP1.00033_2025_05_06_120004.jpg",
+    "local_time": "12:00",
+    "original_sha256": "f7c6a7ce5ddc748ae757bbc9634c75ca8d43f87c10e57767dbb5a6974083d523"
+  },
+  "2025-05-08/KONZ/2025-05-09": {
+    "file": "images/KONZ-2025-05-09.jpg",
+    "date": "2025-05-09",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D06.KONZ.DP1.00033/2025/05/NEON.D06.KONZ.DP1.00033_2025_05_09_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "9aae94d26b4a6a8fc178e5d9cbaf8e63ccb9a98f521ce6906a116a7432526d56"
+  },
+  "2025-05-08/KONZ/2025-05-10": {
+    "file": "images/KONZ-2025-05-10.jpg",
+    "date": "2025-05-10",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D06.KONZ.DP1.00033/2025/05/NEON.D06.KONZ.DP1.00033_2025_05_10_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "f60a267e15b647547b201c3a445f331c55216b47c283cc50faabbaf7fce9ef7e"
+  },
+  "2025-05-08/KONZ/2025-05-11": {
+    "file": "images/KONZ-2025-05-11.jpg",
+    "date": "2025-05-11",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D06.KONZ.DP1.00033/2025/05/NEON.D06.KONZ.DP1.00033_2025_05_11_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "0b45cd162edceb700f436cf392ae0aef03c790a4cf346d41443eae510dfe570a"
+  },
+  "2025-05-08/KONZ/2025-05-12": {
+    "file": "images/KONZ-2025-05-12.jpg",
+    "date": "2025-05-12",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D06.KONZ.DP1.00033/2025/05/NEON.D06.KONZ.DP1.00033_2025_05_12_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "0e0f4f8546c3f8c3b809fcf4f44a2a6d0a131bcae43f0076036c6060addf2197"
+  },
+  "2025-05-08/KONZ/2025-05-13": {
+    "file": "images/KONZ-2025-05-13.jpg",
+    "date": "2025-05-13",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D06.KONZ.DP1.00033/2025/05/NEON.D06.KONZ.DP1.00033_2025_05_13_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "54414fb53ed371e78596289ff657630bf4eaf9557ac1cc71b77849ebc0b5bf1d"
+  },
+  "2025-05-08/KONZ/2025-05-14": {
+    "file": "images/KONZ-2025-05-14.jpg",
+    "date": "2025-05-14",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D06.KONZ.DP1.00033/2025/05/NEON.D06.KONZ.DP1.00033_2025_05_14_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "ca0fc4111475246b85bdbeedfd37e5030d874aaa93e0edfbe46acec1147258c0"
+  },
+  "2025-05-08/KONZ/2025-05-15": {
+    "file": "images/KONZ-2025-05-15.jpg",
+    "date": "2025-05-15",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D06.KONZ.DP1.00033/2025/05/NEON.D06.KONZ.DP1.00033_2025_05_15_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "a62e0f7adbd0391a6fcc6d092d96b6d82139ce5508eab3d92841a17f3a12db32"
+  },
+  "2025-05-08/ONAQ": {
+    "file": "images/ONAQ-2025-05-06.jpg",
+    "date": "2025-05-06",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D15.ONAQ.DP1.00033/2025/05/NEON.D15.ONAQ.DP1.00033_2025_05_06_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "3076d750d380d3aae7a1fa4666db6621623e8858588de597fcf091430ef7471c"
+  },
+  "2025-05-08/ONAQ/2025-05-09": {
+    "file": "images/ONAQ-2025-05-09.jpg",
+    "date": "2025-05-09",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D15.ONAQ.DP1.00033/2025/05/NEON.D15.ONAQ.DP1.00033_2025_05_09_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "54d2898c0d713463ad490b77e5f3324fa5cd1fa09d23690da6ef34f96bd5611c"
+  },
+  "2025-05-08/ONAQ/2025-05-10": {
+    "file": "images/ONAQ-2025-05-10.jpg",
+    "date": "2025-05-10",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D15.ONAQ.DP1.00033/2025/05/NEON.D15.ONAQ.DP1.00033_2025_05_10_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "77a28ad0f10f159a31debe4fb815ab23977122398475f241861c3836ad3911f8"
+  },
+  "2025-05-08/ONAQ/2025-05-11": {
+    "file": "images/ONAQ-2025-05-11.jpg",
+    "date": "2025-05-11",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D15.ONAQ.DP1.00033/2025/05/NEON.D15.ONAQ.DP1.00033_2025_05_11_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "2f0d5ea0b49985c8e0a1ebb0c52143e6df3516d9614de14844e3cc1e34437fa3"
+  },
+  "2025-05-08/ONAQ/2025-05-12": {
+    "file": "images/ONAQ-2025-05-12.jpg",
+    "date": "2025-05-12",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D15.ONAQ.DP1.00033/2025/05/NEON.D15.ONAQ.DP1.00033_2025_05_12_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "12f535cf3fc672c38145b6e98c617bfc9355ddac3a73a2cc5708958884f45a62"
+  },
+  "2025-05-08/ONAQ/2025-05-13": {
+    "file": "images/ONAQ-2025-05-13.jpg",
+    "date": "2025-05-13",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D15.ONAQ.DP1.00033/2025/05/NEON.D15.ONAQ.DP1.00033_2025_05_13_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "2cb4a57c6cc5d26bc6f527ec4e264f898723af78380092ad8ced0adb30e5c4ea"
+  },
+  "2025-05-08/ONAQ/2025-05-14": {
+    "file": "images/ONAQ-2025-05-14.jpg",
+    "date": "2025-05-14",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D15.ONAQ.DP1.00033/2025/05/NEON.D15.ONAQ.DP1.00033_2025_05_14_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "c71f41c20dbc5ba22eadcbbe596b75647f592eb7752d2b830623ed1e1cd0b0e9"
+  },
+  "2025-05-08/ONAQ/2025-05-15": {
+    "file": "images/ONAQ-2025-05-15.jpg",
+    "date": "2025-05-15",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D15.ONAQ.DP1.00033/2025/05/NEON.D15.ONAQ.DP1.00033_2025_05_15_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "69a98c737240305f887056efcb38ec36fc042cf5c6fadf4d3835f23292bbbe09"
+  },
+  "2025-05-08/RMNP": {
+    "file": "images/RMNP-2025-05-06.jpg",
+    "date": "2025-05-06",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D10.RMNP.DP1.00033/2025/05/NEON.D10.RMNP.DP1.00033_2025_05_06_120004.jpg",
+    "local_time": "12:00",
+    "original_sha256": "5c3104f1c68ce3953ce8d6470f8bd5807a93d361cab3e1cd2117a92a2ad95acd"
+  },
+  "2025-05-08/RMNP/2025-05-09": {
+    "file": "images/RMNP-2025-05-09.jpg",
+    "date": "2025-05-09",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D10.RMNP.DP1.00033/2025/05/NEON.D10.RMNP.DP1.00033_2025_05_09_120004.jpg",
+    "local_time": "12:00",
+    "original_sha256": "f8ce57d2e25edc13ce6c5b8c1074daed6cfe86879a10c8bcf3cdf1d496879ec2"
+  },
+  "2025-05-08/RMNP/2025-05-10": {
+    "file": "images/RMNP-2025-05-10.jpg",
+    "date": "2025-05-10",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D10.RMNP.DP1.00033/2025/05/NEON.D10.RMNP.DP1.00033_2025_05_10_120004.jpg",
+    "local_time": "12:00",
+    "original_sha256": "4a9dfacb01022085e7694d9cee3255d8688e57c266626ee46c319ecc3cc2d963"
+  },
+  "2025-05-08/RMNP/2025-05-11": {
+    "file": "images/RMNP-2025-05-11.jpg",
+    "date": "2025-05-11",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D10.RMNP.DP1.00033/2025/05/NEON.D10.RMNP.DP1.00033_2025_05_11_120004.jpg",
+    "local_time": "12:00",
+    "original_sha256": "87e3b993db01ed597f49d73f394290ff9e37ba17ca3258e8eb309fb01d9d191b"
+  },
+  "2025-05-08/RMNP/2025-05-12": {
+    "file": "images/RMNP-2025-05-12.jpg",
+    "date": "2025-05-12",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D10.RMNP.DP1.00033/2025/05/NEON.D10.RMNP.DP1.00033_2025_05_12_120004.jpg",
+    "local_time": "12:00",
+    "original_sha256": "f1704694a4dfc5877b8afca1cf212cfaa3a5ebf1fa9de9104fce2da130de8782"
+  },
+  "2025-05-08/RMNP/2025-05-13": {
+    "file": "images/RMNP-2025-05-13.jpg",
+    "date": "2025-05-13",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D10.RMNP.DP1.00033/2025/05/NEON.D10.RMNP.DP1.00033_2025_05_13_120004.jpg",
+    "local_time": "12:00",
+    "original_sha256": "6239a3802ff2f3df3a51159bfa310de9c44e25071982967117766b79c37e5dd5"
+  },
+  "2025-05-08/RMNP/2025-05-14": {
+    "file": "images/RMNP-2025-05-14.jpg",
+    "date": "2025-05-14",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D10.RMNP.DP1.00033/2025/05/NEON.D10.RMNP.DP1.00033_2025_05_14_120004.jpg",
+    "local_time": "12:00",
+    "original_sha256": "f5c72b02059d4e9b6e0bb2fbb6ea6ad67a810a38005b05ce3071d0ca6d7da3c5"
+  },
+  "2025-05-08/RMNP/2025-05-15": {
+    "file": "images/RMNP-2025-05-15.jpg",
+    "date": "2025-05-15",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D10.RMNP.DP1.00033/2025/05/NEON.D10.RMNP.DP1.00033_2025_05_15_120004.jpg",
+    "local_time": "12:00",
+    "original_sha256": "f50112cdd0280273508f71b00a560deaea285e2ebb6670d7be5ff54131bdd8f2"
+  },
+  "2025-05-08/SJER": {
+    "file": "images/SJER-2025-05-06.jpg",
+    "date": "2025-05-06",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D17.SJER.DP1.00033/2025/05/NEON.D17.SJER.DP1.00033_2025_05_06_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "338afeb1fa71a285fe52ae78f04bb08b956403847d5f131a6c8740835a4cc861"
+  },
+  "2025-05-08/SJER/2025-05-09": {
+    "file": "images/SJER-2025-05-09.jpg",
+    "date": "2025-05-09",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D17.SJER.DP1.00033/2025/05/NEON.D17.SJER.DP1.00033_2025_05_09_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "a999d84f32b472a17fc291aee9d69bb627b74e6b1fb427292985690de12a1826"
+  },
+  "2025-05-08/SJER/2025-05-10": {
+    "file": "images/SJER-2025-05-10.jpg",
+    "date": "2025-05-10",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D17.SJER.DP1.00033/2025/05/NEON.D17.SJER.DP1.00033_2025_05_10_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "56c1751307b86beb5c553e04eeb564bc62ee3a0a3380d16f761f3092c8162c95"
+  },
+  "2025-05-08/SJER/2025-05-11": {
+    "file": "images/SJER-2025-05-11.jpg",
+    "date": "2025-05-11",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D17.SJER.DP1.00033/2025/05/NEON.D17.SJER.DP1.00033_2025_05_11_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "a89b4f0d454fa642fcdb95ec4b92a02d3b5b9448ff7bbb5edcf34979a34e02ce"
+  },
+  "2025-05-08/SJER/2025-05-12": {
+    "file": "images/SJER-2025-05-12.jpg",
+    "date": "2025-05-12",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D17.SJER.DP1.00033/2025/05/NEON.D17.SJER.DP1.00033_2025_05_12_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "a13435b66d6f795a5e0359d170573962d2d913a35a617aaf577237f9b8cb979f"
+  },
+  "2025-05-08/SJER/2025-05-13": {
+    "file": "images/SJER-2025-05-13.jpg",
+    "date": "2025-05-13",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D17.SJER.DP1.00033/2025/05/NEON.D17.SJER.DP1.00033_2025_05_13_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "d74c1812396507315e1f853534d3bfeec097706fb657382d6585ab4e3a764a0e"
+  },
+  "2025-05-08/SJER/2025-05-14": {
+    "file": "images/SJER-2025-05-14.jpg",
+    "date": "2025-05-14",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D17.SJER.DP1.00033/2025/05/NEON.D17.SJER.DP1.00033_2025_05_14_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "47f04151546649231f7d220a7a8acf9b1c7aacb8956b192ff32ee87cef8b2b6d"
+  },
+  "2025-05-08/SJER/2025-05-15": {
+    "file": "images/SJER-2025-05-15.jpg",
+    "date": "2025-05-15",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D17.SJER.DP1.00033/2025/05/NEON.D17.SJER.DP1.00033_2025_05_15_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "d3d58885bfb4f1d573e87d983ece7acc9f7d6477b6561378a3c63b0cfa72b390"
+  },
+  "2025-05-08/SRER": {
+    "file": "images/SRER-2025-05-06.jpg",
+    "date": "2025-05-06",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D14.SRER.DP1.00033/2025/05/NEON.D14.SRER.DP1.00033_2025_05_06_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "c371b9489e58a93414c7ab0a2857127d63515d2a143b12fb30f58f3652cf8cae"
+  },
+  "2025-05-08/SRER/2025-05-09": {
+    "file": "images/SRER-2025-05-09.jpg",
+    "date": "2025-05-09",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D14.SRER.DP1.00033/2025/05/NEON.D14.SRER.DP1.00033_2025_05_09_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "697dd7ea94b739831f1a74e1d135316efb198049d5114e9bbb6fe60918dfeb35"
+  },
+  "2025-05-08/SRER/2025-05-10": {
+    "file": "images/SRER-2025-05-10.jpg",
+    "date": "2025-05-10",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D14.SRER.DP1.00033/2025/05/NEON.D14.SRER.DP1.00033_2025_05_10_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "4b2f44be23d6cd41e95cf3e7fd52ce6973a6fccd22c541c98910b91eb605b6ee"
+  },
+  "2025-05-08/SRER/2025-05-11": {
+    "file": "images/SRER-2025-05-11.jpg",
+    "date": "2025-05-11",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D14.SRER.DP1.00033/2025/05/NEON.D14.SRER.DP1.00033_2025_05_11_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "7601d42b7adaecdfd445db276e6e0121c42dbc3bc33d53f82e4eeaf04d1f1b78"
+  },
+  "2025-05-08/SRER/2025-05-12": {
+    "file": "images/SRER-2025-05-12.jpg",
+    "date": "2025-05-12",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D14.SRER.DP1.00033/2025/05/NEON.D14.SRER.DP1.00033_2025_05_12_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "5050a21b06e0d15377788877f819dec44f422109b5181db99b75ac9e47d10465"
+  },
+  "2025-05-08/SRER/2025-05-13": {
+    "file": "images/SRER-2025-05-13.jpg",
+    "date": "2025-05-13",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D14.SRER.DP1.00033/2025/05/NEON.D14.SRER.DP1.00033_2025_05_13_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "f17778b576b54af08271974080d6d85588d8d49397d9cb65b71d0bcfc199fb25"
+  },
+  "2025-05-08/SRER/2025-05-14": {
+    "file": "images/SRER-2025-05-14.jpg",
+    "date": "2025-05-14",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D14.SRER.DP1.00033/2025/05/NEON.D14.SRER.DP1.00033_2025_05_14_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "ae25567359cc7be6366e88a4e48f8b2020a12a02aff5e6c9d6d360b9558da865"
+  },
+  "2025-05-08/SRER/2025-05-15": {
+    "file": "images/SRER-2025-05-15.jpg",
+    "date": "2025-05-15",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D14.SRER.DP1.00033/2025/05/NEON.D14.SRER.DP1.00033_2025_05_15_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "983bea144537ecad0f04dccac9e11cd2877bc9498c81f69ce197eb423c4106b0"
+  },
+  "2025-05-08/STEI": {
+    "file": "images/STEI-2025-05-06.jpg",
+    "date": "2025-05-06",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D05.STEI.DP1.00033/2025/05/NEON.D05.STEI.DP1.00033_2025_05_06_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "7a686a39b5f91dec2c1f9ce704961186269063890eabc6cc227204bde852ceb5"
+  },
+  "2025-05-08/STEI/2025-05-09": {
+    "file": "images/STEI-2025-05-09.jpg",
+    "date": "2025-05-09",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D05.STEI.DP1.00033/2025/05/NEON.D05.STEI.DP1.00033_2025_05_09_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "23e00b36358a95219f701011d81d88ac1ef31171d0946d5b92804dc2310f375d"
+  },
+  "2025-05-08/STEI/2025-05-10": {
+    "file": "images/STEI-2025-05-10.jpg",
+    "date": "2025-05-10",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D05.STEI.DP1.00033/2025/05/NEON.D05.STEI.DP1.00033_2025_05_10_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "4e0a7a6fdb82e6970df49f5002206d11016f5f1df1380cef8dbf9dfcd95dc6c3"
+  },
+  "2025-05-08/STEI/2025-05-11": {
+    "file": "images/STEI-2025-05-11.jpg",
+    "date": "2025-05-11",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D05.STEI.DP1.00033/2025/05/NEON.D05.STEI.DP1.00033_2025_05_11_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "e0a6a28daa93d7e6516e6350c82f77f5b7f497ad628b0f69455a4726a2fdead0"
+  },
+  "2025-05-08/STEI/2025-05-12": {
+    "file": "images/STEI-2025-05-12.jpg",
+    "date": "2025-05-12",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D05.STEI.DP1.00033/2025/05/NEON.D05.STEI.DP1.00033_2025_05_12_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "247cdad8a55f0605dab3704284c1e53a0c6cbf693eb2479b4de1f4dcf5b5e546"
+  },
+  "2025-05-08/STEI/2025-05-13": {
+    "file": "images/STEI-2025-05-13.jpg",
+    "date": "2025-05-13",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D05.STEI.DP1.00033/2025/05/NEON.D05.STEI.DP1.00033_2025_05_13_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "3aefe7348ceda8aa808222a3ceed17e4188daa498224a65758637b7004c07e1c"
+  },
+  "2025-05-08/STEI/2025-05-14": {
+    "file": "images/STEI-2025-05-14.jpg",
+    "date": "2025-05-14",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D05.STEI.DP1.00033/2025/05/NEON.D05.STEI.DP1.00033_2025_05_14_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "25bfa06fb2475789a6e075e307f61c59d7c7b2a33963b070290731481a833d40"
+  },
+  "2025-05-08/STEI/2025-05-15": {
+    "file": "images/STEI-2025-05-15.jpg",
+    "date": "2025-05-15",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D05.STEI.DP1.00033/2025/05/NEON.D05.STEI.DP1.00033_2025_05_15_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "a392e2d4fc5253cb1880f525c9afcf891f28b6d6f0fbbed58ac78b4f581ece25"
+  },
+  "2025-05-08/TREE": {
+    "file": "images/TREE-2025-05-06.jpg",
+    "date": "2025-05-06",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D05.TREE.DP1.00033/2025/05/NEON.D05.TREE.DP1.00033_2025_05_06_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "c012ed5aba42375f6b3284d0097354dbac0b0acc7b19ef8b456dc7a18d5f6a77"
+  },
+  "2025-05-08/TREE/2025-05-09": {
+    "file": "images/TREE-2025-05-09.jpg",
+    "date": "2025-05-09",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D05.TREE.DP1.00033/2025/05/NEON.D05.TREE.DP1.00033_2025_05_09_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "ec0dc6e92e6a8d4a27ab3e0d8541e968466abe3db71bc682fe1d2a4ce2cea7ef"
+  },
+  "2025-05-08/TREE/2025-05-10": {
+    "file": "images/TREE-2025-05-10.jpg",
+    "date": "2025-05-10",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D05.TREE.DP1.00033/2025/05/NEON.D05.TREE.DP1.00033_2025_05_10_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "a18919822da6a1324b31c136ebab3893100b2fd82a3f4588ce475cd0e4dc31f3"
+  },
+  "2025-05-08/TREE/2025-05-11": {
+    "file": "images/TREE-2025-05-11.jpg",
+    "date": "2025-05-11",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D05.TREE.DP1.00033/2025/05/NEON.D05.TREE.DP1.00033_2025_05_11_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "094c11a3970beed40431ab2acd0d705f2cd3a0d92c7bd49b0da7f39f17d5b4cb"
+  },
+  "2025-05-08/TREE/2025-05-12": {
+    "file": "images/TREE-2025-05-12.jpg",
+    "date": "2025-05-12",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D05.TREE.DP1.00033/2025/05/NEON.D05.TREE.DP1.00033_2025_05_12_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "9605706c9a272012a9da69d86befca715ccd2d53aa2dabbe63cbe59efd786b9c"
+  },
+  "2025-05-08/TREE/2025-05-13": {
+    "file": "images/TREE-2025-05-13.jpg",
+    "date": "2025-05-13",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D05.TREE.DP1.00033/2025/05/NEON.D05.TREE.DP1.00033_2025_05_13_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "d295dbc561bb8210295d6160c7f8e844beb15066f7f25c188d23828e2bf3ef82"
+  },
+  "2025-05-08/TREE/2025-05-14": {
+    "file": "images/TREE-2025-05-14.jpg",
+    "date": "2025-05-14",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D05.TREE.DP1.00033/2025/05/NEON.D05.TREE.DP1.00033_2025_05_14_120006.jpg",
+    "local_time": "12:00",
+    "original_sha256": "39605021873cc00726358aa1f968fdfd363a69f2a6ef44a93a52aa2ca82f7a20"
+  },
+  "2025-05-08/TREE/2025-05-15": {
+    "file": "images/TREE-2025-05-15.jpg",
+    "date": "2025-05-15",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D05.TREE.DP1.00033/2025/05/NEON.D05.TREE.DP1.00033_2025_05_15_120006.jpg",
+    "local_time": "12:00",
+    "original_sha256": "fde45dbb8638bc6f3f885f9ce4675ac70c4801c522e52681fb64c7413dbebef2"
+  },
+  "2025-05-08/UKFS": {
+    "file": "images/UKFS-2025-05-06.jpg",
+    "date": "2025-05-06",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D06.UKFS.DP1.00033/2025/05/NEON.D06.UKFS.DP1.00033_2025_05_06_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "69e9d8feb049846e8ba9d3b04cdc4958d70b3c577541e25fb27e26a591761530"
+  },
+  "2025-05-08/UKFS/2025-05-09": {
+    "file": "images/UKFS-2025-05-09.jpg",
+    "date": "2025-05-09",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D06.UKFS.DP1.00033/2025/05/NEON.D06.UKFS.DP1.00033_2025_05_09_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "75e7f33f282031dd8ea52386967fdf0592b17e570b1fa39326acc5f9a5bd1396"
+  },
+  "2025-05-08/UKFS/2025-05-10": {
+    "file": "images/UKFS-2025-05-10.jpg",
+    "date": "2025-05-10",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D06.UKFS.DP1.00033/2025/05/NEON.D06.UKFS.DP1.00033_2025_05_10_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "48916655672050bcc93610fe0868260f4a2dd6ed2aee4d244a6de9c6a4b53afc"
+  },
+  "2025-05-08/UKFS/2025-05-11": {
+    "file": "images/UKFS-2025-05-11.jpg",
+    "date": "2025-05-11",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D06.UKFS.DP1.00033/2025/05/NEON.D06.UKFS.DP1.00033_2025_05_11_120004.jpg",
+    "local_time": "12:00",
+    "original_sha256": "2eda46182789c93101031641f65e0ed9eec55af3be48ea64cc0c0c8d3c0592fa"
+  },
+  "2025-05-08/UKFS/2025-05-12": {
+    "file": "images/UKFS-2025-05-12.jpg",
+    "date": "2025-05-12",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D06.UKFS.DP1.00033/2025/05/NEON.D06.UKFS.DP1.00033_2025_05_12_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "fc3e655ec6e800df0071f4a8c46c05122c99d2a62c3e9b12c9aab2a2820717ca"
+  },
+  "2025-05-08/UKFS/2025-05-13": {
+    "file": "images/UKFS-2025-05-13.jpg",
+    "date": "2025-05-13",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D06.UKFS.DP1.00033/2025/05/NEON.D06.UKFS.DP1.00033_2025_05_13_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "eabc97bda56b7288e08c3504903a287dea7acc69c8a1be9774af4227deba0cdf"
+  },
+  "2025-05-08/UKFS/2025-05-14": {
+    "file": "images/UKFS-2025-05-14.jpg",
+    "date": "2025-05-14",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D06.UKFS.DP1.00033/2025/05/NEON.D06.UKFS.DP1.00033_2025_05_14_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "35a3e941e0ab78f108c99a1688764181903b06d05e94b7f1307ddf7bf55975f5"
+  },
+  "2025-05-08/UKFS/2025-05-15": {
+    "file": "images/UKFS-2025-05-15.jpg",
+    "date": "2025-05-15",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D06.UKFS.DP1.00033/2025/05/NEON.D06.UKFS.DP1.00033_2025_05_15_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "53ad32781873f998bb511203b36a08dac53c282cfb89c8cc694d1fa66bd6a606"
+  },
+  "2025-05-08/UNDE": {
+    "file": "images/UNDE-2025-04-30.jpg",
+    "date": "2025-04-30",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D05.UNDE.DP1.00033/2025/04/NEON.D05.UNDE.DP1.00033_2025_04_30_120004.jpg",
+    "local_time": "12:00",
+    "original_sha256": "9d29de038ca26a7302159e30d742a9018f742405d14dc5f539ad0d0caadc548f"
+  },
+  "2025-05-08/UNDE/2025-05-13": {
+    "file": "images/UNDE-2025-05-13.jpg",
+    "date": "2025-05-13",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D05.UNDE.DP1.00033/2025/05/NEON.D05.UNDE.DP1.00033_2025_05_13_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "bb94ea73379b7374e8135af4b6a19283543764013303812caa1bbc18ff28a1b3"
+  },
+  "2025-05-08/UNDE/2025-05-14": {
+    "file": "images/UNDE-2025-05-14.jpg",
+    "date": "2025-05-14",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D05.UNDE.DP1.00033/2025/05/NEON.D05.UNDE.DP1.00033_2025_05_14_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "865bcd0eb8d23db30a44b73b35c19643554e465af1c0dad7fa618ea75e2ca138"
+  },
+  "2025-05-08/UNDE/2025-05-15": {
+    "file": "images/UNDE-2025-05-15.jpg",
+    "date": "2025-05-15",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D05.UNDE.DP1.00033/2025/05/NEON.D05.UNDE.DP1.00033_2025_05_15_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "a4d60f074e0a47a7f22fa40a515a6426bcb0793de1b4909ab04f306e200ad9bd"
+  },
+  "2025-05-08/WOOD": {
+    "file": "images/WOOD-2025-05-06.jpg",
+    "date": "2025-05-06",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D09.WOOD.DP1.00033/2025/05/NEON.D09.WOOD.DP1.00033_2025_05_06_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "37e72b5ffeda8715020e5d4de2ce9b211d9a7ed4a38cc790a304f1e1885f8e80"
+  },
+  "2025-05-08/WOOD/2025-05-09": {
+    "file": "images/WOOD-2025-05-09.jpg",
+    "date": "2025-05-09",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D09.WOOD.DP1.00033/2025/05/NEON.D09.WOOD.DP1.00033_2025_05_09_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "6b98a45b2794effb6a007e346da38b2039eeb271520886792c33ca8f020641e3"
+  },
+  "2025-05-08/WOOD/2025-05-10": {
+    "file": "images/WOOD-2025-05-10.jpg",
+    "date": "2025-05-10",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D09.WOOD.DP1.00033/2025/05/NEON.D09.WOOD.DP1.00033_2025_05_10_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "8b3aef384973088623d861b6a6d1514d817e9854f87300e14232b49f30416d88"
+  },
+  "2025-05-08/WOOD/2025-05-11": {
+    "file": "images/WOOD-2025-05-11.jpg",
+    "date": "2025-05-11",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D09.WOOD.DP1.00033/2025/05/NEON.D09.WOOD.DP1.00033_2025_05_11_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "2598267eef2ca9154366e1bd2eaffcea29e9bcf2d4500beb05ee042bdae03d2b"
+  },
+  "2025-05-08/WOOD/2025-05-12": {
+    "file": "images/WOOD-2025-05-12.jpg",
+    "date": "2025-05-12",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D09.WOOD.DP1.00033/2025/05/NEON.D09.WOOD.DP1.00033_2025_05_12_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "784272c460c8fd9c6732d37e25a929668ccc9ac95d54d723e84b339a01854771"
+  },
+  "2025-05-08/WOOD/2025-05-13": {
+    "file": "images/WOOD-2025-05-13.jpg",
+    "date": "2025-05-13",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D09.WOOD.DP1.00033/2025/05/NEON.D09.WOOD.DP1.00033_2025_05_13_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "8eb2f443f4be026b3e2386f89ee6d7bf70792dae61065634669651d43564ab29"
+  },
+  "2025-05-08/WOOD/2025-05-14": {
+    "file": "images/WOOD-2025-05-14.jpg",
+    "date": "2025-05-14",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D09.WOOD.DP1.00033/2025/05/NEON.D09.WOOD.DP1.00033_2025_05_14_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "810b2a5205d9cb32263bcc5f19d72207fb95ca583323554fd9c51a63ef4a2110"
+  },
+  "2025-05-08/WOOD/2025-05-15": {
+    "file": "images/WOOD-2025-05-15.jpg",
+    "date": "2025-05-15",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D09.WOOD.DP1.00033/2025/05/NEON.D09.WOOD.DP1.00033_2025_05_15_120005.jpg",
+    "local_time": "12:00",
+    "original_sha256": "d215f9eab76638d7c2f71957daac10b57ee99e4252ea18070d2699f895caf62c"
+  },
+  "2025-10-09/DCFS": {
+    "file": "images/DCFS-2025-10-07.jpg",
+    "date": "2025-10-07",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D09.DCFS.DP1.00033/2025/10/NEON.D09.DCFS.DP1.00033_2025_10_07_120400.jpg",
+    "local_time": "12:04",
+    "original_sha256": "f50b6607c50a9692d1ea6318d3b60a49139310ca5fe98c5ff9ebace59fe7911a"
+  },
+  "2025-10-09/DCFS/2025-10-10": {
+    "file": "images/DCFS-2025-10-10.jpg",
+    "date": "2025-10-10",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D09.DCFS.DP1.00033/2025/10/NEON.D09.DCFS.DP1.00033_2025_10_10_120400.jpg",
+    "local_time": "12:04",
+    "original_sha256": "017039f9bd07ea3f735ffb09213b828610cad5354d931e631ab9115ca557d4e1"
+  },
+  "2025-10-09/DCFS/2025-10-11": {
+    "file": "images/DCFS-2025-10-11.jpg",
+    "date": "2025-10-11",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D09.DCFS.DP1.00033/2025/10/NEON.D09.DCFS.DP1.00033_2025_10_11_120400.jpg",
+    "local_time": "12:04",
+    "original_sha256": "6fc21040e606b96425f51dfd3df7173e664523e654459e210c5f12c5fa0ebb5a"
+  },
+  "2025-10-09/DCFS/2025-10-12": {
+    "file": "images/DCFS-2025-10-12.jpg",
+    "date": "2025-10-12",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D09.DCFS.DP1.00033/2025/10/NEON.D09.DCFS.DP1.00033_2025_10_12_120400.jpg",
+    "local_time": "12:04",
+    "original_sha256": "8ad479f34d2eb585f3dea8b602224bfebe6ce3817a00073af7bf2e7219a64618"
+  },
+  "2025-10-09/DCFS/2025-10-13": {
+    "file": "images/DCFS-2025-10-13.jpg",
+    "date": "2025-10-13",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D09.DCFS.DP1.00033/2025/10/NEON.D09.DCFS.DP1.00033_2025_10_13_120400.jpg",
+    "local_time": "12:04",
+    "original_sha256": "3e94686677ea464658ef9edef1d86bdc618af9a9ee4de480609e9a9de391bdec"
+  },
+  "2025-10-09/DCFS/2025-10-14": {
+    "file": "images/DCFS-2025-10-14.jpg",
+    "date": "2025-10-14",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D09.DCFS.DP1.00033/2025/10/NEON.D09.DCFS.DP1.00033_2025_10_14_120400.jpg",
+    "local_time": "12:04",
+    "original_sha256": "20992523ee5a84a1cd15fdb09e9e60002ff72dc0c58108cfcad4bb7093f145b3"
+  },
+  "2025-10-09/DCFS/2025-10-15": {
+    "file": "images/DCFS-2025-10-15.jpg",
+    "date": "2025-10-15",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D09.DCFS.DP1.00033/2025/10/NEON.D09.DCFS.DP1.00033_2025_10_15_120400.jpg",
+    "local_time": "12:04",
+    "original_sha256": "ec02b575f471ae84b169b7870c006f7847bb546880df4494ab91684567597c6b"
+  },
+  "2025-10-09/DCFS/2025-10-16": {
+    "file": "images/DCFS-2025-10-16.jpg",
+    "date": "2025-10-16",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D09.DCFS.DP1.00033/2025/10/NEON.D09.DCFS.DP1.00033_2025_10_16_120400.jpg",
+    "local_time": "12:04",
+    "original_sha256": "df94bc066ddd49851be5d0946aaa3b2d251b200e00c72a60d0b9d4f3ddecd81f"
+  },
+  "2025-10-09/DSNY": {
+    "file": "images/DSNY-2025-10-07.jpg",
+    "date": "2025-10-07",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D03.DSNY.DP1.00033/2025/10/NEON.D03.DSNY.DP1.00033_2025_10_07_120700.jpg",
+    "local_time": "12:07",
+    "original_sha256": "8b78470add15f6ed13923fbedd61024c7c404e452d8a9b74fdd0ca3a7b230be2"
+  },
+  "2025-10-09/DSNY/2025-10-14": {
+    "file": "images/DSNY-2025-10-14.jpg",
+    "date": "2025-10-14",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D03.DSNY.DP1.00033/2025/10/NEON.D03.DSNY.DP1.00033_2025_10_14_173700.jpg",
+    "local_time": "17:37",
+    "original_sha256": "728ef0e7529154486a7cc188ff7524bf9ac682f42848dd6011d293f130d9ebbb"
+  },
+  "2025-10-09/DSNY/2025-10-15": {
+    "file": "images/DSNY-2025-10-15.jpg",
+    "date": "2025-10-15",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D03.DSNY.DP1.00033/2025/10/NEON.D03.DSNY.DP1.00033_2025_10_15_105200.jpg",
+    "local_time": "10:52",
+    "original_sha256": "987a225338dfd2120c8e2e895ffbf9c7e0e88340ca36a3fd6640870e3cbc0300"
+  },
+  "2025-10-09/DSNY/2025-10-16": {
+    "file": "images/DSNY-2025-10-16.jpg",
+    "date": "2025-10-16",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D03.DSNY.DP1.00033/2025/10/NEON.D03.DSNY.DP1.00033_2025_10_16_120700.jpg",
+    "local_time": "12:07",
+    "original_sha256": "2dad53e2345ea245df9082b05350626588cce062322443f59c445c2c4b21546d"
+  },
+  "2025-10-09/GUAN": {
+    "file": "images/GUAN-2025-10-07.jpg",
+    "date": "2025-10-07",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D04.GUAN.DP1.00033/2025/10/NEON.D04.GUAN.DP1.00033_2025_10_07_115500.jpg",
+    "local_time": "11:55",
+    "original_sha256": "c5260ad6e55364988cdfe13cbdc8f2022f643b14dcc1dffd1df2151ed9cbcab3"
+  },
+  "2025-10-09/GUAN/2025-10-10": {
+    "file": "images/GUAN-2025-10-10.jpg",
+    "date": "2025-10-10",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D04.GUAN.DP1.00033/2025/10/NEON.D04.GUAN.DP1.00033_2025_10_10_115500.jpg",
+    "local_time": "11:55",
+    "original_sha256": "6e1c93a3f7b39f4f695aecee8144fee74702c87c2860c8cb51fba68db6bd3ce3"
+  },
+  "2025-10-09/GUAN/2025-10-11": {
+    "file": "images/GUAN-2025-10-11.jpg",
+    "date": "2025-10-11",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D04.GUAN.DP1.00033/2025/10/NEON.D04.GUAN.DP1.00033_2025_10_11_115500.jpg",
+    "local_time": "11:55",
+    "original_sha256": "e03c96d37a30b7febfb8b1b67442bf9a154ad6f64b3ac392b84c67a2dc6d57f0"
+  },
+  "2025-10-09/GUAN/2025-10-12": {
+    "file": "images/GUAN-2025-10-12.jpg",
+    "date": "2025-10-12",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D04.GUAN.DP1.00033/2025/10/NEON.D04.GUAN.DP1.00033_2025_10_12_115500.jpg",
+    "local_time": "11:55",
+    "original_sha256": "a03340533071f09874de7a25c31158e15f2ab27c582769b9fe1311604e78c51e"
+  },
+  "2025-10-09/GUAN/2025-10-13": {
+    "file": "images/GUAN-2025-10-13.jpg",
+    "date": "2025-10-13",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D04.GUAN.DP1.00033/2025/10/NEON.D04.GUAN.DP1.00033_2025_10_13_115500.jpg",
+    "local_time": "11:55",
+    "original_sha256": "05f5c9320a3cc6cd0d444772be1bfc9cc2daeb19fbdfe8ad9c2f7718ba04bdaa"
+  },
+  "2025-10-09/GUAN/2025-10-14": {
+    "file": "images/GUAN-2025-10-14.jpg",
+    "date": "2025-10-14",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D04.GUAN.DP1.00033/2025/10/NEON.D04.GUAN.DP1.00033_2025_10_14_115500.jpg",
+    "local_time": "11:55",
+    "original_sha256": "9a742881cf2ba7a09359bf757bf0daeb96a1a24f7677013f2b0a7569a61e3420"
+  },
+  "2025-10-09/GUAN/2025-10-15": {
+    "file": "images/GUAN-2025-10-15.jpg",
+    "date": "2025-10-15",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D04.GUAN.DP1.00033/2025/10/NEON.D04.GUAN.DP1.00033_2025_10_15_115500.jpg",
+    "local_time": "11:55",
+    "original_sha256": "07cf91f54a07379994475839bca0a45384cb3544924d7d7af5334b978e8bd608"
+  },
+  "2025-10-09/GUAN/2025-10-16": {
+    "file": "images/GUAN-2025-10-16.jpg",
+    "date": "2025-10-16",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D04.GUAN.DP1.00033/2025/10/NEON.D04.GUAN.DP1.00033_2025_10_16_115500.jpg",
+    "local_time": "11:55",
+    "original_sha256": "24d3e62c07dcb227783a5e5fb0248ad3e28c36fff9703a8abea953bfee2928e7"
+  },
+  "2025-10-09/KONA": {
+    "file": "images/KONA-2025-10-07.jpg",
+    "date": "2025-10-07",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D06.KONA.DP1.00033/2025/10/NEON.D06.KONA.DP1.00033_2025_10_07_120600.jpg",
+    "local_time": "12:06",
+    "original_sha256": "c0142f68655e6a9fab7198e79f39583561d28e8e9d79fe2a49d07c56d8cc76b1"
+  },
+  "2025-10-09/KONA/2025-10-10": {
+    "file": "images/KONA-2025-10-10.jpg",
+    "date": "2025-10-10",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D06.KONA.DP1.00033/2025/10/NEON.D06.KONA.DP1.00033_2025_10_10_120600.jpg",
+    "local_time": "12:06",
+    "original_sha256": "2907ccbcae361ff6329aedb48f36e93aec802b906d0c4031a9690414a98ac328"
+  },
+  "2025-10-09/KONA/2025-10-11": {
+    "file": "images/KONA-2025-10-11.jpg",
+    "date": "2025-10-11",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D06.KONA.DP1.00033/2025/10/NEON.D06.KONA.DP1.00033_2025_10_11_120600.jpg",
+    "local_time": "12:06",
+    "original_sha256": "91d41a7e6aa9071905138dfa254e866cd6f6204f50ec36635879f17ea68a497d"
+  },
+  "2025-10-09/KONA/2025-10-12": {
+    "file": "images/KONA-2025-10-12.jpg",
+    "date": "2025-10-12",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D06.KONA.DP1.00033/2025/10/NEON.D06.KONA.DP1.00033_2025_10_12_120600.jpg",
+    "local_time": "12:06",
+    "original_sha256": "61c8b6a75dc9f5e554f3ca583e338681ca1b366193fc2e3f2ac02a1a030fa7e5"
+  },
+  "2025-10-09/KONA/2025-10-13": {
+    "file": "images/KONA-2025-10-13.jpg",
+    "date": "2025-10-13",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D06.KONA.DP1.00033/2025/10/NEON.D06.KONA.DP1.00033_2025_10_13_120600.jpg",
+    "local_time": "12:06",
+    "original_sha256": "d73a685a9cf5c083b55fb1e8be7412c47a4e287b54eb459bccb0448e10dc294c"
+  },
+  "2025-10-09/KONA/2025-10-14": {
+    "file": "images/KONA-2025-10-14.jpg",
+    "date": "2025-10-14",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D06.KONA.DP1.00033/2025/10/NEON.D06.KONA.DP1.00033_2025_10_14_120600.jpg",
+    "local_time": "12:06",
+    "original_sha256": "fc9d26a2de9acbcdcdc36793c258fcd9e3b6297e2c5234567a4efa47bac52422"
+  },
+  "2025-10-09/KONA/2025-10-15": {
+    "file": "images/KONA-2025-10-15.jpg",
+    "date": "2025-10-15",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D06.KONA.DP1.00033/2025/10/NEON.D06.KONA.DP1.00033_2025_10_15_120600.jpg",
+    "local_time": "12:06",
+    "original_sha256": "761c0d900d8120e5797ea2afb26a598062092bddc7c7c9c7da1c9cfad44b1460"
+  },
+  "2025-10-09/KONA/2025-10-16": {
+    "file": "images/KONA-2025-10-16.jpg",
+    "date": "2025-10-16",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D06.KONA.DP1.00033/2025/10/NEON.D06.KONA.DP1.00033_2025_10_16_120600.jpg",
+    "local_time": "12:06",
+    "original_sha256": "621056d722817efba86b3fc46cd580d09327a000004e41b589628ef791a6bcdc"
+  },
+  "2025-10-09/KONZ": {
+    "file": "images/KONZ-2025-10-07.jpg",
+    "date": "2025-10-07",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D06.KONZ.DP1.00033/2025/10/NEON.D06.KONZ.DP1.00033_2025_10_07_120700.jpg",
+    "local_time": "12:07",
+    "original_sha256": "7a6faf08145ec3638103f83c2a07bba6c0dd17989e9484c40fbfd0c4ed0d57c6"
+  },
+  "2025-10-09/KONZ/2025-10-10": {
+    "file": "images/KONZ-2025-10-10.jpg",
+    "date": "2025-10-10",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D06.KONZ.DP1.00033/2025/10/NEON.D06.KONZ.DP1.00033_2025_10_10_120700.jpg",
+    "local_time": "12:07",
+    "original_sha256": "ae07ecb7f2d6e37d48196cb83392b87d7529dc0d83a04a0b1384df8dea5c7c36"
+  },
+  "2025-10-09/KONZ/2025-10-11": {
+    "file": "images/KONZ-2025-10-11.jpg",
+    "date": "2025-10-11",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D06.KONZ.DP1.00033/2025/10/NEON.D06.KONZ.DP1.00033_2025_10_11_120700.jpg",
+    "local_time": "12:07",
+    "original_sha256": "ce7eca795e3e42c4450e31605c2293c78e4c813467e86d04229a270a9a688850"
+  },
+  "2025-10-09/KONZ/2025-10-12": {
+    "file": "images/KONZ-2025-10-12.jpg",
+    "date": "2025-10-12",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D06.KONZ.DP1.00033/2025/10/NEON.D06.KONZ.DP1.00033_2025_10_12_120700.jpg",
+    "local_time": "12:07",
+    "original_sha256": "db7de8d3afd9d78fb933021f8671221db729254353b36c880c55d1f0e4da24a0"
+  },
+  "2025-10-09/KONZ/2025-10-13": {
+    "file": "images/KONZ-2025-10-13.jpg",
+    "date": "2025-10-13",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D06.KONZ.DP1.00033/2025/10/NEON.D06.KONZ.DP1.00033_2025_10_13_120700.jpg",
+    "local_time": "12:07",
+    "original_sha256": "09a5bcb1cc710bb92841840e719bcddba91e9d852a362f443c511d2c36ace0a9"
+  },
+  "2025-10-09/KONZ/2025-10-14": {
+    "file": "images/KONZ-2025-10-14.jpg",
+    "date": "2025-10-14",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D06.KONZ.DP1.00033/2025/10/NEON.D06.KONZ.DP1.00033_2025_10_14_120700.jpg",
+    "local_time": "12:07",
+    "original_sha256": "ff70909914d63a1913c816e933fbdbf8e2f1e481c0ada1362cd73d639e26d979"
+  },
+  "2025-10-09/KONZ/2025-10-15": {
+    "file": "images/KONZ-2025-10-15.jpg",
+    "date": "2025-10-15",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D06.KONZ.DP1.00033/2025/10/NEON.D06.KONZ.DP1.00033_2025_10_15_120700.jpg",
+    "local_time": "12:07",
+    "original_sha256": "60ced64ecc5a1cc1518b234cc534bb226c82bfbab09223e3a0f629b05a9d5e1f"
+  },
+  "2025-10-09/KONZ/2025-10-16": {
+    "file": "images/KONZ-2025-10-16.jpg",
+    "date": "2025-10-16",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D06.KONZ.DP1.00033/2025/10/NEON.D06.KONZ.DP1.00033_2025_10_16_120700.jpg",
+    "local_time": "12:07",
+    "original_sha256": "f01cba2f6ce2deb4fea7779b8e0e318da1fddbf846b5aec66fe7713e0e281e1d"
+  },
+  "2025-10-09/ONAQ": {
+    "file": "images/ONAQ-2025-10-07.jpg",
+    "date": "2025-10-07",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D15.ONAQ.DP1.00033/2025/10/NEON.D15.ONAQ.DP1.00033_2025_10_07_120000.jpg",
+    "local_time": "12:00",
+    "original_sha256": "feab4094439fb53772c33918f316af727625751b8695916850def2e6d03b4d32"
+  },
+  "2025-10-09/ONAQ/2025-10-10": {
+    "file": "images/ONAQ-2025-10-10.jpg",
+    "date": "2025-10-10",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D15.ONAQ.DP1.00033/2025/10/NEON.D15.ONAQ.DP1.00033_2025_10_10_120000.jpg",
+    "local_time": "12:00",
+    "original_sha256": "425ffdf0c4329d747d775701fadc26a74a1a99a920b0561cd15298d4df641c04"
+  },
+  "2025-10-09/ONAQ/2025-10-11": {
+    "file": "images/ONAQ-2025-10-11.jpg",
+    "date": "2025-10-11",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D15.ONAQ.DP1.00033/2025/10/NEON.D15.ONAQ.DP1.00033_2025_10_11_120000.jpg",
+    "local_time": "12:00",
+    "original_sha256": "f9f1015a52c8581904536f1e955da5684539f500d0b6b32ff9a22e3cf7acb81c"
+  },
+  "2025-10-09/ONAQ/2025-10-12": {
+    "file": "images/ONAQ-2025-10-12.jpg",
+    "date": "2025-10-12",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D15.ONAQ.DP1.00033/2025/10/NEON.D15.ONAQ.DP1.00033_2025_10_12_120000.jpg",
+    "local_time": "12:00",
+    "original_sha256": "bee763c1615db4db17a1ca29762cb034cc2ef672f00520979a9332e15355cfb2"
+  },
+  "2025-10-09/ONAQ/2025-10-13": {
+    "file": "images/ONAQ-2025-10-13.jpg",
+    "date": "2025-10-13",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D15.ONAQ.DP1.00033/2025/10/NEON.D15.ONAQ.DP1.00033_2025_10_13_120000.jpg",
+    "local_time": "12:00",
+    "original_sha256": "b0444b6ac79beebe3ca8cd705f9f9361af4fc29457d2b49f400679203b78efa2"
+  },
+  "2025-10-09/ONAQ/2025-10-14": {
+    "file": "images/ONAQ-2025-10-14.jpg",
+    "date": "2025-10-14",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D15.ONAQ.DP1.00033/2025/10/NEON.D15.ONAQ.DP1.00033_2025_10_14_120000.jpg",
+    "local_time": "12:00",
+    "original_sha256": "92627a366487d522f5562314a3002c5affdc39be9a6df85a8aa14dff5c4a563d"
+  },
+  "2025-10-09/ONAQ/2025-10-15": {
+    "file": "images/ONAQ-2025-10-15.jpg",
+    "date": "2025-10-15",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D15.ONAQ.DP1.00033/2025/10/NEON.D15.ONAQ.DP1.00033_2025_10_15_120000.jpg",
+    "local_time": "12:00",
+    "original_sha256": "6c607abd286013f7e084e6c32e09222478f0c85f42a13b1efcef9e6e87648556"
+  },
+  "2025-10-09/ONAQ/2025-10-16": {
+    "file": "images/ONAQ-2025-10-16.jpg",
+    "date": "2025-10-16",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D15.ONAQ.DP1.00033/2025/10/NEON.D15.ONAQ.DP1.00033_2025_10_16_120000.jpg",
+    "local_time": "12:00",
+    "original_sha256": "16cb06b220c29f3e7fd7c1333513e28f2394852554af1be76ec25bb6955e8684"
+  },
+  "2025-10-09/RMNP": {
+    "file": "images/RMNP-2025-10-07.jpg",
+    "date": "2025-10-07",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D10.RMNP.DP1.00033/2025/10/NEON.D10.RMNP.DP1.00033_2025_10_07_115600.jpg",
+    "local_time": "11:56",
+    "original_sha256": "b16de4149c48527d3fc748da3aa6303194a675582459c186dbea700b52713020"
+  },
+  "2025-10-09/RMNP/2025-10-10": {
+    "file": "images/RMNP-2025-10-10.jpg",
+    "date": "2025-10-10",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D10.RMNP.DP1.00033/2025/10/NEON.D10.RMNP.DP1.00033_2025_10_10_115600.jpg",
+    "local_time": "11:56",
+    "original_sha256": "cac2a680ea95db51c521feadee042337fb69b9338badc514eed57509f8b49862"
+  },
+  "2025-10-09/RMNP/2025-10-11": {
+    "file": "images/RMNP-2025-10-11.jpg",
+    "date": "2025-10-11",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D10.RMNP.DP1.00033/2025/10/NEON.D10.RMNP.DP1.00033_2025_10_11_115600.jpg",
+    "local_time": "11:56",
+    "original_sha256": "9e58142b8dd7e4a68488a46bed92375f81a9f120f9db59e6e911a6fc2897d3fb"
+  },
+  "2025-10-09/RMNP/2025-10-12": {
+    "file": "images/RMNP-2025-10-12.jpg",
+    "date": "2025-10-12",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D10.RMNP.DP1.00033/2025/10/NEON.D10.RMNP.DP1.00033_2025_10_12_115600.jpg",
+    "local_time": "11:56",
+    "original_sha256": "b35f2ba8d6f44d47f0a22ffe05ef88da474dd83162e3596a3afd60f9940cbb3a"
+  },
+  "2025-10-09/RMNP/2025-10-13": {
+    "file": "images/RMNP-2025-10-13.jpg",
+    "date": "2025-10-13",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D10.RMNP.DP1.00033/2025/10/NEON.D10.RMNP.DP1.00033_2025_10_13_115600.jpg",
+    "local_time": "11:56",
+    "original_sha256": "abcf0fdc959be408d045eb7b959b2269aa34894bc2226d8521fb4a71d9477ce9"
+  },
+  "2025-10-09/RMNP/2025-10-14": {
+    "file": "images/RMNP-2025-10-14.jpg",
+    "date": "2025-10-14",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D10.RMNP.DP1.00033/2025/10/NEON.D10.RMNP.DP1.00033_2025_10_14_115600.jpg",
+    "local_time": "11:56",
+    "original_sha256": "9275a1905eee0b0d6f2274cf5676c2676876aadc17f03e79b3eb567d173f1536"
+  },
+  "2025-10-09/RMNP/2025-10-15": {
+    "file": "images/RMNP-2025-10-15.jpg",
+    "date": "2025-10-15",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D10.RMNP.DP1.00033/2025/10/NEON.D10.RMNP.DP1.00033_2025_10_15_115600.jpg",
+    "local_time": "11:56",
+    "original_sha256": "1b0c552e8a6e81c17411d27916d57f416f4194f2eb901b23d50141251a09ddf5"
+  },
+  "2025-10-09/RMNP/2025-10-16": {
+    "file": "images/RMNP-2025-10-16.jpg",
+    "date": "2025-10-16",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D10.RMNP.DP1.00033/2025/10/NEON.D10.RMNP.DP1.00033_2025_10_16_115600.jpg",
+    "local_time": "11:56",
+    "original_sha256": "4d9cf30f9560152b7412a959476dbd11d75c7ed686a54d62d9186e6a387468ec"
+  },
+  "2025-10-09/SJER": {
+    "file": "images/SJER-2025-10-07.jpg",
+    "date": "2025-10-07",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D17.SJER.DP1.00033/2025/10/NEON.D17.SJER.DP1.00033_2025_10_07_115900.jpg",
+    "local_time": "11:59",
+    "original_sha256": "3a9a84b3c567dd6538d1e569e6c1998bc84c9e065440a14da8212dbd902103b0"
+  },
+  "2025-10-09/SJER/2025-10-10": {
+    "file": "images/SJER-2025-10-10.jpg",
+    "date": "2025-10-10",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D17.SJER.DP1.00033/2025/10/NEON.D17.SJER.DP1.00033_2025_10_10_115900.jpg",
+    "local_time": "11:59",
+    "original_sha256": "78c97089e174872df925c6b04894c1a92a305d9054c77b629592285e95dea2e2"
+  },
+  "2025-10-09/SJER/2025-10-11": {
+    "file": "images/SJER-2025-10-11.jpg",
+    "date": "2025-10-11",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D17.SJER.DP1.00033/2025/10/NEON.D17.SJER.DP1.00033_2025_10_11_115900.jpg",
+    "local_time": "11:59",
+    "original_sha256": "cb6249ecf4ae9103fd21daab852a4d33e0eb89b850a49fb79ca501c59d93d039"
+  },
+  "2025-10-09/SJER/2025-10-12": {
+    "file": "images/SJER-2025-10-12.jpg",
+    "date": "2025-10-12",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D17.SJER.DP1.00033/2025/10/NEON.D17.SJER.DP1.00033_2025_10_12_115900.jpg",
+    "local_time": "11:59",
+    "original_sha256": "f777b6720a2fb331a890ecc09e319fca73d227c98a5d6550dd879465f8195ce3"
+  },
+  "2025-10-09/SJER/2025-10-13": {
+    "file": "images/SJER-2025-10-13.jpg",
+    "date": "2025-10-13",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D17.SJER.DP1.00033/2025/10/NEON.D17.SJER.DP1.00033_2025_10_13_115900.jpg",
+    "local_time": "11:59",
+    "original_sha256": "570a0710d2192617b08ad59b1cef53925100f2efb7242635c931df56bfe5b2eb"
+  },
+  "2025-10-09/SJER/2025-10-14": {
+    "file": "images/SJER-2025-10-14.jpg",
+    "date": "2025-10-14",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D17.SJER.DP1.00033/2025/10/NEON.D17.SJER.DP1.00033_2025_10_14_115900.jpg",
+    "local_time": "11:59",
+    "original_sha256": "86c3ac7501d562e49e938297dc7d505a389dc26f05bee19f1c753d321ca406c7"
+  },
+  "2025-10-09/SJER/2025-10-15": {
+    "file": "images/SJER-2025-10-15.jpg",
+    "date": "2025-10-15",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D17.SJER.DP1.00033/2025/10/NEON.D17.SJER.DP1.00033_2025_10_15_115900.jpg",
+    "local_time": "11:59",
+    "original_sha256": "59ccffe9b6a0c99fb168cc992b2a05af7d754d72e7711ea6db1697e777e7c7cb"
+  },
+  "2025-10-09/SJER/2025-10-16": {
+    "file": "images/SJER-2025-10-16.jpg",
+    "date": "2025-10-16",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D17.SJER.DP1.00033/2025/10/NEON.D17.SJER.DP1.00033_2025_10_16_115900.jpg",
+    "local_time": "11:59",
+    "original_sha256": "5b47c3d7f06ff2608f807e9975943d11468d304a9fb8b29e522270ca8b03151b"
+  },
+  "2025-10-09/SRER": {
+    "file": "images/SRER-2025-10-07.jpg",
+    "date": "2025-10-07",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D14.SRER.DP1.00033/2025/10/NEON.D14.SRER.DP1.00033_2025_10_07_120100.jpg",
+    "local_time": "12:01",
+    "original_sha256": "7b783a9dc7ec70c60595e7eb95ffa827c15060891059bed5056d15179d38e586"
+  },
+  "2025-10-09/SRER/2025-10-10": {
+    "file": "images/SRER-2025-10-10.jpg",
+    "date": "2025-10-10",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D14.SRER.DP1.00033/2025/10/NEON.D14.SRER.DP1.00033_2025_10_10_120100.jpg",
+    "local_time": "12:01",
+    "original_sha256": "4a67e034bfbfb6c75af7e90b205a67690d9edaec24a7d2a8e18b11cfdcd1cfe1"
+  },
+  "2025-10-09/SRER/2025-10-11": {
+    "file": "images/SRER-2025-10-11.jpg",
+    "date": "2025-10-11",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D14.SRER.DP1.00033/2025/10/NEON.D14.SRER.DP1.00033_2025_10_11_120100.jpg",
+    "local_time": "12:01",
+    "original_sha256": "9b42f42cd3743cfcc3e959aa125ba31ec812ff5c12f1e122f118b0c0d067d325"
+  },
+  "2025-10-09/SRER/2025-10-12": {
+    "file": "images/SRER-2025-10-12.jpg",
+    "date": "2025-10-12",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D14.SRER.DP1.00033/2025/10/NEON.D14.SRER.DP1.00033_2025_10_12_120100.jpg",
+    "local_time": "12:01",
+    "original_sha256": "410bae7200b00ee535b036112d6e55b588cf6d9752023d270d8781288440b79b"
+  },
+  "2025-10-09/SRER/2025-10-13": {
+    "file": "images/SRER-2025-10-13.jpg",
+    "date": "2025-10-13",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D14.SRER.DP1.00033/2025/10/NEON.D14.SRER.DP1.00033_2025_10_13_120100.jpg",
+    "local_time": "12:01",
+    "original_sha256": "26bb5d940e252a0dc76f764fe9d08f8c5bdf3459cc8f5e71247add26836721a7"
+  },
+  "2025-10-09/SRER/2025-10-14": {
+    "file": "images/SRER-2025-10-14.jpg",
+    "date": "2025-10-14",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D14.SRER.DP1.00033/2025/10/NEON.D14.SRER.DP1.00033_2025_10_14_120100.jpg",
+    "local_time": "12:01",
+    "original_sha256": "58a0f4e07ea99e9eb3d853dcf44f9a0954c0da1fcde71596873084ea56df9fbe"
+  },
+  "2025-10-09/SRER/2025-10-15": {
+    "file": "images/SRER-2025-10-15.jpg",
+    "date": "2025-10-15",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D14.SRER.DP1.00033/2025/10/NEON.D14.SRER.DP1.00033_2025_10_15_120100.jpg",
+    "local_time": "12:01",
+    "original_sha256": "3dc247fd6302bdba3949e36f55daf8c955e3942b8cec4846c71b1c11250d6d65"
+  },
+  "2025-10-09/SRER/2025-10-16": {
+    "file": "images/SRER-2025-10-16.jpg",
+    "date": "2025-10-16",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D14.SRER.DP1.00033/2025/10/NEON.D14.SRER.DP1.00033_2025_10_16_120100.jpg",
+    "local_time": "12:01",
+    "original_sha256": "8e378ed4962fec86ef8ae4bf8893921c127c983713fdba311f17d0ccc7c60289"
+  },
+  "2025-10-09/STEI": {
+    "file": "images/STEI-2025-10-07.jpg",
+    "date": "2025-10-07",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D05.STEI.DP1.00033/2025/10/NEON.D05.STEI.DP1.00033_2025_10_07_120200.jpg",
+    "local_time": "12:02",
+    "original_sha256": "4b5b63adcb67f566a37e21b71e3c5c904b8cb5c15fa3fe587f367a99f79cf980"
+  },
+  "2025-10-09/STEI/2025-10-10": {
+    "file": "images/STEI-2025-10-10.jpg",
+    "date": "2025-10-10",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D05.STEI.DP1.00033/2025/10/NEON.D05.STEI.DP1.00033_2025_10_10_120200.jpg",
+    "local_time": "12:02",
+    "original_sha256": "dee26d7005ecb14f4565e14e98928bc34c8de85b939865de93b0baaf7ab5923c"
+  },
+  "2025-10-09/STEI/2025-10-11": {
+    "file": "images/STEI-2025-10-11.jpg",
+    "date": "2025-10-11",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D05.STEI.DP1.00033/2025/10/NEON.D05.STEI.DP1.00033_2025_10_11_120200.jpg",
+    "local_time": "12:02",
+    "original_sha256": "c1f9ffecd12c82d051f2682878adc0ae0f12bf53648fa0029c77394e815ddebe"
+  },
+  "2025-10-09/STEI/2025-10-12": {
+    "file": "images/STEI-2025-10-12.jpg",
+    "date": "2025-10-12",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D05.STEI.DP1.00033/2025/10/NEON.D05.STEI.DP1.00033_2025_10_12_120200.jpg",
+    "local_time": "12:02",
+    "original_sha256": "bf7dca32c57b360873f080d1bf162d769f271c94ecf90ca8de81a1defac50445"
+  },
+  "2025-10-09/STEI/2025-10-13": {
+    "file": "images/STEI-2025-10-13.jpg",
+    "date": "2025-10-13",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D05.STEI.DP1.00033/2025/10/NEON.D05.STEI.DP1.00033_2025_10_13_120200.jpg",
+    "local_time": "12:02",
+    "original_sha256": "cdf1320398304b3aa8f7fd7124a2150ddb386d38ea521a97fafaf4c12b24e9a0"
+  },
+  "2025-10-09/STEI/2025-10-14": {
+    "file": "images/STEI-2025-10-14.jpg",
+    "date": "2025-10-14",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D05.STEI.DP1.00033/2025/10/NEON.D05.STEI.DP1.00033_2025_10_14_120200.jpg",
+    "local_time": "12:02",
+    "original_sha256": "08c5737f137c62b1610c7213b336d1352b8c4616fdbb42694685a777fed00cfc"
+  },
+  "2025-10-09/STEI/2025-10-15": {
+    "file": "images/STEI-2025-10-15.jpg",
+    "date": "2025-10-15",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D05.STEI.DP1.00033/2025/10/NEON.D05.STEI.DP1.00033_2025_10_15_120200.jpg",
+    "local_time": "12:02",
+    "original_sha256": "104dc238b154b6ef8be78dcae8d434f2fa1bbe36b16cf41550da7fdef81074ce"
+  },
+  "2025-10-09/STEI/2025-10-16": {
+    "file": "images/STEI-2025-10-16.jpg",
+    "date": "2025-10-16",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D05.STEI.DP1.00033/2025/10/NEON.D05.STEI.DP1.00033_2025_10_16_120200.jpg",
+    "local_time": "12:02",
+    "original_sha256": "b1578f55b288a956e69b5f361739727a2e47081f92e0befc0234c56c50301b06"
+  },
+  "2025-10-09/TREE": {
+    "file": "images/TREE-2025-10-07.jpg",
+    "date": "2025-10-07",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D05.TREE.DP1.00033/2025/10/NEON.D05.TREE.DP1.00033_2025_10_07_115700.jpg",
+    "local_time": "11:57",
+    "original_sha256": "add8ca346394eca28caaae4ad0520f5604d4760f3c39786b6cfdd2f084b80c8c"
+  },
+  "2025-10-09/TREE/2025-10-10": {
+    "file": "images/TREE-2025-10-10.jpg",
+    "date": "2025-10-10",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D05.TREE.DP1.00033/2025/10/NEON.D05.TREE.DP1.00033_2025_10_10_115700.jpg",
+    "local_time": "11:57",
+    "original_sha256": "c5b331dab3f7626916c3732c5f7b7d726a024391f3af573e5ca44e624395fc3e"
+  },
+  "2025-10-09/TREE/2025-10-11": {
+    "file": "images/TREE-2025-10-11.jpg",
+    "date": "2025-10-11",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D05.TREE.DP1.00033/2025/10/NEON.D05.TREE.DP1.00033_2025_10_11_115700.jpg",
+    "local_time": "11:57",
+    "original_sha256": "dfc4b8ac0cfb1421f5f4ac3af0473e62f9b86a9b71e949ea9781fc6066eeeb1f"
+  },
+  "2025-10-09/TREE/2025-10-12": {
+    "file": "images/TREE-2025-10-12.jpg",
+    "date": "2025-10-12",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D05.TREE.DP1.00033/2025/10/NEON.D05.TREE.DP1.00033_2025_10_12_115700.jpg",
+    "local_time": "11:57",
+    "original_sha256": "657bce208246c0b02c3b372a1370be9af2723f3e0792beab6de18e1875ca2ec5"
+  },
+  "2025-10-09/TREE/2025-10-13": {
+    "file": "images/TREE-2025-10-13.jpg",
+    "date": "2025-10-13",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D05.TREE.DP1.00033/2025/10/NEON.D05.TREE.DP1.00033_2025_10_13_115700.jpg",
+    "local_time": "11:57",
+    "original_sha256": "58cdd0195cdadefeceb583ba41438b8b81b0c741c45ffea2bc271b33c2ffbcfb"
+  },
+  "2025-10-09/TREE/2025-10-14": {
+    "file": "images/TREE-2025-10-14.jpg",
+    "date": "2025-10-14",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D05.TREE.DP1.00033/2025/10/NEON.D05.TREE.DP1.00033_2025_10_14_115700.jpg",
+    "local_time": "11:57",
+    "original_sha256": "ede4a2c6de006f2f89484da71e4e8253d270aac8ad3213c3021c794b6a9d8371"
+  },
+  "2025-10-09/TREE/2025-10-15": {
+    "file": "images/TREE-2025-10-15.jpg",
+    "date": "2025-10-15",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D05.TREE.DP1.00033/2025/10/NEON.D05.TREE.DP1.00033_2025_10_15_115700.jpg",
+    "local_time": "11:57",
+    "original_sha256": "fe075f6e2d0e5fc48173e18aa5e2495071dec0f7c3ea265b06e007df5b059e88"
+  },
+  "2025-10-09/TREE/2025-10-16": {
+    "file": "images/TREE-2025-10-16.jpg",
+    "date": "2025-10-16",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D05.TREE.DP1.00033/2025/10/NEON.D05.TREE.DP1.00033_2025_10_16_115700.jpg",
+    "local_time": "11:57",
+    "original_sha256": "b19e575080e29e0c6f2734c8294b5cae05232313388d46df2ff573f35a2ae73a"
+  },
+  "2025-10-09/UKFS": {
+    "file": "images/UKFS-2025-10-07.jpg",
+    "date": "2025-10-07",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D06.UKFS.DP1.00033/2025/10/NEON.D06.UKFS.DP1.00033_2025_10_07_115800.jpg",
+    "local_time": "11:58",
+    "original_sha256": "569b493a4eb4eaf30ce0d6f4a3111f5c1df403d046f3131533664be6fc665230"
+  },
+  "2025-10-09/UKFS/2025-10-10": {
+    "file": "images/UKFS-2025-10-10.jpg",
+    "date": "2025-10-10",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D06.UKFS.DP1.00033/2025/10/NEON.D06.UKFS.DP1.00033_2025_10_10_115800.jpg",
+    "local_time": "11:58",
+    "original_sha256": "236e8607c51c9afc537257f50d761f606ce890ecef5916ccb046021e111503dc"
+  },
+  "2025-10-09/UKFS/2025-10-11": {
+    "file": "images/UKFS-2025-10-11.jpg",
+    "date": "2025-10-11",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D06.UKFS.DP1.00033/2025/10/NEON.D06.UKFS.DP1.00033_2025_10_11_115800.jpg",
+    "local_time": "11:58",
+    "original_sha256": "95b68d96290ed709465fd0fe88320d9b5b40cffdb55a4ba544feb346dbf6ac91"
+  },
+  "2025-10-09/UKFS/2025-10-12": {
+    "file": "images/UKFS-2025-10-12.jpg",
+    "date": "2025-10-12",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D06.UKFS.DP1.00033/2025/10/NEON.D06.UKFS.DP1.00033_2025_10_12_115800.jpg",
+    "local_time": "11:58",
+    "original_sha256": "2e30be553496c58331d44c20e5853e9dbffcfb9c45b68eabe7004188d7559f23"
+  },
+  "2025-10-09/UKFS/2025-10-13": {
+    "file": "images/UKFS-2025-10-13.jpg",
+    "date": "2025-10-13",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D06.UKFS.DP1.00033/2025/10/NEON.D06.UKFS.DP1.00033_2025_10_13_115800.jpg",
+    "local_time": "11:58",
+    "original_sha256": "1099c34e688d3be9d200da3ffd5da6c7f51c34ccdbf7fc14f5b98501858ac54b"
+  },
+  "2025-10-09/UKFS/2025-10-14": {
+    "file": "images/UKFS-2025-10-14.jpg",
+    "date": "2025-10-14",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D06.UKFS.DP1.00033/2025/10/NEON.D06.UKFS.DP1.00033_2025_10_14_115800.jpg",
+    "local_time": "11:58",
+    "original_sha256": "4e7ec746bc868afb7296c951f4966bb38e49c70bc24fa2b6385a04459feb4459"
+  },
+  "2025-10-09/UKFS/2025-10-15": {
+    "file": "images/UKFS-2025-10-15.jpg",
+    "date": "2025-10-15",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D06.UKFS.DP1.00033/2025/10/NEON.D06.UKFS.DP1.00033_2025_10_15_115800.jpg",
+    "local_time": "11:58",
+    "original_sha256": "07dd4147fd21441ab78975f6aa0f90de11d7efcd1da857f45e235079d6fe127c"
+  },
+  "2025-10-09/UKFS/2025-10-16": {
+    "file": "images/UKFS-2025-10-16.jpg",
+    "date": "2025-10-16",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D06.UKFS.DP1.00033/2025/10/NEON.D06.UKFS.DP1.00033_2025_10_16_115800.jpg",
+    "local_time": "11:58",
+    "original_sha256": "97568ef7b6753f8af1332331140c49c630550cdb19430682e587c3afca3d3e39"
+  },
+  "2025-10-09/UNDE": {
+    "file": "images/UNDE-2025-10-07.jpg",
+    "date": "2025-10-07",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D05.UNDE.DP1.00033/2025/10/NEON.D05.UNDE.DP1.00033_2025_10_07_115900.jpg",
+    "local_time": "11:59",
+    "original_sha256": "000f0bd6f485332986aacbe56e075bc615e2229763586c1dabf190c204d39501"
+  },
+  "2025-10-09/UNDE/2025-10-10": {
+    "file": "images/UNDE-2025-10-10.jpg",
+    "date": "2025-10-10",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D05.UNDE.DP1.00033/2025/10/NEON.D05.UNDE.DP1.00033_2025_10_10_115900.jpg",
+    "local_time": "11:59",
+    "original_sha256": "1ddbc2dbc828a07bae4ded2dc65b34eebc6d6e639f1bae576e1901b4bae582df"
+  },
+  "2025-10-09/UNDE/2025-10-11": {
+    "file": "images/UNDE-2025-10-11.jpg",
+    "date": "2025-10-11",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D05.UNDE.DP1.00033/2025/10/NEON.D05.UNDE.DP1.00033_2025_10_11_115900.jpg",
+    "local_time": "11:59",
+    "original_sha256": "4e79a16f9cca5348b145f824b24c5a458f8b0cf4c66db04a75c7248146777719"
+  },
+  "2025-10-09/UNDE/2025-10-12": {
+    "file": "images/UNDE-2025-10-12.jpg",
+    "date": "2025-10-12",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D05.UNDE.DP1.00033/2025/10/NEON.D05.UNDE.DP1.00033_2025_10_12_115900.jpg",
+    "local_time": "11:59",
+    "original_sha256": "245d81e902422254ff0f76030e25b69a3b834551c2c1be98c712bcb1db402e09"
+  },
+  "2025-10-09/UNDE/2025-10-13": {
+    "file": "images/UNDE-2025-10-13.jpg",
+    "date": "2025-10-13",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D05.UNDE.DP1.00033/2025/10/NEON.D05.UNDE.DP1.00033_2025_10_13_115900.jpg",
+    "local_time": "11:59",
+    "original_sha256": "a3b6d1c83563d314690df4717001425e782629fbfb6b0085d03409ee85030e7d"
+  },
+  "2025-10-09/UNDE/2025-10-14": {
+    "file": "images/UNDE-2025-10-14.jpg",
+    "date": "2025-10-14",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D05.UNDE.DP1.00033/2025/10/NEON.D05.UNDE.DP1.00033_2025_10_14_115900.jpg",
+    "local_time": "11:59",
+    "original_sha256": "74b77f38cdedd2fd3077cdbeb4dec13ab3a92cc6601b3041a23cf98974618525"
+  },
+  "2025-10-09/UNDE/2025-10-15": {
+    "file": "images/UNDE-2025-10-15.jpg",
+    "date": "2025-10-15",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D05.UNDE.DP1.00033/2025/10/NEON.D05.UNDE.DP1.00033_2025_10_15_115900.jpg",
+    "local_time": "11:59",
+    "original_sha256": "912528b797fd7a9a7e9e2e5ac4af04ae7799ad47921ae1dd6a385fd55af90d4d"
+  },
+  "2025-10-09/UNDE/2025-10-16": {
+    "file": "images/UNDE-2025-10-16.jpg",
+    "date": "2025-10-16",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D05.UNDE.DP1.00033/2025/10/NEON.D05.UNDE.DP1.00033_2025_10_16_115900.jpg",
+    "local_time": "11:59",
+    "original_sha256": "608b32ecc8b2d5ac62f3d5b2f08ee8e4d653550c372327a68bb39f6ad0f13b5d"
+  },
+  "2025-10-09/WOOD": {
+    "file": "images/WOOD-2025-10-07.jpg",
+    "date": "2025-10-07",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D09.WOOD.DP1.00033/2025/10/NEON.D09.WOOD.DP1.00033_2025_10_07_120200.jpg",
+    "local_time": "12:02",
+    "original_sha256": "2a77534d867b35bca21a7b3cd28f8486b9baf507897545e29261637339c6a0fc"
+  },
+  "2025-10-09/WOOD/2025-10-10": {
+    "file": "images/WOOD-2025-10-10.jpg",
+    "date": "2025-10-10",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D09.WOOD.DP1.00033/2025/10/NEON.D09.WOOD.DP1.00033_2025_10_10_120200.jpg",
+    "local_time": "12:02",
+    "original_sha256": "d9f58acaed0a65c2657fc499c8766d652288502696e873fe500986ecf7d5e96d"
+  },
+  "2025-10-09/WOOD/2025-10-11": {
+    "file": "images/WOOD-2025-10-11.jpg",
+    "date": "2025-10-11",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D09.WOOD.DP1.00033/2025/10/NEON.D09.WOOD.DP1.00033_2025_10_11_120200.jpg",
+    "local_time": "12:02",
+    "original_sha256": "ec54b761bb3585de305a56921a7b6230385f5fd20c36ef1ec40f903833dccbcd"
+  },
+  "2025-10-09/WOOD/2025-10-12": {
+    "file": "images/WOOD-2025-10-12.jpg",
+    "date": "2025-10-12",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D09.WOOD.DP1.00033/2025/10/NEON.D09.WOOD.DP1.00033_2025_10_12_120200.jpg",
+    "local_time": "12:02",
+    "original_sha256": "2afa3bf3a9dcdee4cb0986ff8cae95c09e7fc8d663e928e79d95f48adab0da68"
+  },
+  "2025-10-09/WOOD/2025-10-13": {
+    "file": "images/WOOD-2025-10-13.jpg",
+    "date": "2025-10-13",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D09.WOOD.DP1.00033/2025/10/NEON.D09.WOOD.DP1.00033_2025_10_13_120200.jpg",
+    "local_time": "12:02",
+    "original_sha256": "8923bbe18d020185310d9e35d75e6dfa9ad72452f3d1709fd3bb0bc723304c73"
+  },
+  "2025-10-09/WOOD/2025-10-14": {
+    "file": "images/WOOD-2025-10-14.jpg",
+    "date": "2025-10-14",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D09.WOOD.DP1.00033/2025/10/NEON.D09.WOOD.DP1.00033_2025_10_14_120200.jpg",
+    "local_time": "12:02",
+    "original_sha256": "7af7d67bbeb9c5affa1668303a67d1c056cda9f6b78976e1da9261629f3939d2"
+  },
+  "2025-10-09/WOOD/2025-10-15": {
+    "file": "images/WOOD-2025-10-15.jpg",
+    "date": "2025-10-15",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D09.WOOD.DP1.00033/2025/10/NEON.D09.WOOD.DP1.00033_2025_10_15_120200.jpg",
+    "local_time": "12:02",
+    "original_sha256": "f74a873165618567ae4daed97a1840cc3d663cc8e413ea5bbf0b4b9760614118"
+  },
+  "2025-10-09/WOOD/2025-10-16": {
+    "file": "images/WOOD-2025-10-16.jpg",
+    "date": "2025-10-16",
+    "original": "https://phenocam.nau.edu/data/archive/NEON.D09.WOOD.DP1.00033/2025/10/NEON.D09.WOOD.DP1.00033_2025_10_16_120200.jpg",
+    "local_time": "12:02",
+    "original_sha256": "03002553ad2625df4178ef869f24bcd05969e796c2b7266b81f41e870746fc94"
+  }
+}

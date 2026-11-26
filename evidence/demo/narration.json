@@ -1,0 +1,16 @@
+[
+ ["start","A remote sensing analyst wants to find colour changes in a large camera archive. Canopy Compare brings a dated image pair, a model flag and the recorded outcome into the same review."],
+ ["settings","This is a retrospective replay of May eighth, twenty twenty-five. We are inspecting existing photographs in the following seven days, using the historical model to decide which pairs to open first."],
+ ["spring","For greenness, Steigerwaldt in Wisconsin rises to the top. The model expected increasing green colour, even after discounting the prediction by its historical uncertainty."],
+ ["pictures","Open Compare images. On May sixth the branches are mostly bare. On May fifteenth green foliage fills much of the same camera view. Both frames are real, dated archive photographs."],
+ ["region","Turn on the measured canopy region. The gold boundary shows which pixels PhenoCam measured, excluding trees and sky outside its sampling area. On each original photo, this mask reproduces the published midday red, green and blue averages."],
+ ["mark","Here the demonstration marks colour change visible. Other choices record an unclear change or obscured imagery. The mark stays on this device, and the underlying photographs link to their public originals."],
+ ["reveal","Now reveal the independent observations. The green index reached zero point four four six. Its actual rise was about ninety-five thousandths, roughly twice the rise predicted by the model."],
+ ["export","The review log keeps the model flag separate from the visual interpretation. The exported CSV includes both original photograph links, the measured index, predicted mean and uncertainty. Other cameras remain unreviewed."],
+ ["fall","An autumn example is harder. Choose the October archive and redness. At Treehaven the model flagged a large drop for October sixteenth."],
+ ["fall_reveal","The recorded red index actually rose slightly. This is a real miss in the direction of change. A useful review tool makes that disagreement easy to see."],
+ ["fall_pair","The archive supplies both frames. A near-noon photograph gives visual context, while the daily colour index summarizes the camera region across observations. The analyst can leave an uncertain mark."],
+ ["fallback","The date control accepts only this completed archive week. An unsupported date stops the export, explains the error and restores the last saved visual marks when you return."],
+ ["evidence","Across seventy-four historical issue dates, this ranking found more green changes than a recent-trend list. The trend list had more red hits. Neither statistic establishes that a specific plant event occurred."],
+ ["model","A boosted-tree correction of seasonal analogues supplies the forecasts. Codex assisted implementation and checking. The entrant requested remote archive review, which led to the paired-photo workflow, saved interpretations and traceable exports. Everything shown runs locally."]
+]
