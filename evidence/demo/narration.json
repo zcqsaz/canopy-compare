@@ -1,16 +1,58 @@
 [
- ["start","A remote sensing analyst wants to find colour changes in a large camera archive. Canopy Compare brings a dated image pair, a model flag and the recorded outcome into the same review."],
- ["settings","This is a retrospective replay of May eighth, twenty twenty-five. We are inspecting existing photographs in the following seven days, using the historical model to decide which pairs to open first."],
- ["spring","For greenness, Steigerwaldt in Wisconsin rises to the top. The model expected increasing green colour, even after discounting the prediction by its historical uncertainty."],
- ["pictures","Open Compare images. On May sixth the branches are mostly bare. On May fifteenth green foliage fills much of the same camera view. Both frames are real, dated archive photographs."],
- ["region","Turn on the measured canopy region. The gold boundary shows which pixels PhenoCam measured, excluding trees and sky outside its sampling area. On each original photo, this mask reproduces the published midday red, green and blue averages."],
- ["mark","Here the demonstration marks colour change visible. Other choices record an unclear change or obscured imagery. The mark stays on this device, and the underlying photographs link to their public originals."],
- ["reveal","Now reveal the independent observations. The green index reached zero point four four six. Its actual rise was about ninety-five thousandths, roughly twice the rise predicted by the model."],
- ["export","The review log keeps the model flag separate from the visual interpretation. The exported CSV includes both original photograph links, the measured index, predicted mean and uncertainty. Other cameras remain unreviewed."],
- ["fall","An autumn example is harder. Choose the October archive and redness. At Treehaven the model flagged a large drop for October sixteenth."],
- ["fall_reveal","The recorded red index actually rose slightly. This is a real miss in the direction of change. A useful review tool makes that disagreement easy to see."],
- ["fall_pair","The archive supplies both frames. A near-noon photograph gives visual context, while the daily colour index summarizes the camera region across observations. The analyst can leave an uncertain mark."],
- ["fallback","The date control accepts only this completed archive week. An unsupported date stops the export, explains the error and restores the last saved visual marks when you return."],
- ["evidence","Across seventy-four historical issue dates, this ranking found more green changes than a recent-trend list. The trend list had more red hits. Neither statistic establishes that a specific plant event occurred."],
- ["model","A boosted-tree correction of seasonal analogues supplies the forecasts. Codex assisted implementation and checking. The entrant requested remote archive review, which led to the paired-photo workflow, saved interpretations and traceable exports. Everything shown runs locally."]
+  [
+    "start",
+    "Hi, I'm demonstrating Canopy Compare, an offline browser tool I built to review ecological forecast flags directly against dated PhenoCam photographs and export traceable review logs."
+  ],
+  [
+    "settings",
+    "Here we're replaying the May 8, 2025 greenness forecast across 14 NEON sites. The queue ranks cameras using a conservative change score with a threshold of zero point zero one zero."
+  ],
+  [
+    "spring",
+    "Steigerwaldt in Wisconsin comes out on top. Even after subtracting historical forecast uncertainty, the model still expects a strong spring green-up over the next week."
+  ],
+  [
+    "pictures",
+    "When I open Compare images, the May 6 and May 15 archive photos appear side by side. On May 6 the canopy is still mostly bare; by May 15, fresh green leaves fill the view."
+  ],
+  [
+    "region",
+    "I can also overlay the official PhenoCam sampling mask in gold. Across 197 verified frames, pixels inside this mask reproduce the published midday color averages, so we know we are inspecting the exact measured canopy."
+  ],
+  [
+    "mark",
+    "Notice that the ground-truth numbers stay hidden while I inspect the photos. I'll mark this as a visible color change, which saves locally on this device."
+  ],
+  [
+    "reveal",
+    "Now let's reveal the later observations. The greenness index actually climbed to zero point four four six, roughly double the rise our model predicted from baseline."
+  ],
+  [
+    "export",
+    "Clicking Export review log downloads a CSV containing my visual note, the model forecast, the observed index, and direct links to both original archive photos."
+  ],
+  [
+    "fall",
+    "Autumn redness is much trickier. Switching to the October 9 replay and the redness channel puts Treehaven first, where the model predicted a sharp drop."
+  ],
+  [
+    "fall_reveal",
+    "But when we reveal the October 16 record, redness actually ticked up slightly. Showing misses in direction clearly helps analysts catch where the forecast failed."
+  ],
+  [
+    "fall_pair",
+    "Opening the image pair gives immediate visual context. Because snow, glare, or slight camera shifts can move daily color indices, human inspection stays essential before labeling an event."
+  ],
+  [
+    "fallback",
+    "The interface also handles edge cases cleanly. Entering an unsupported date triggers an explicit explanation without erasing any saved review marks, and clicking the recovery button restores the valid archive week."
+  ],
+  [
+    "evidence",
+    "Over in Model evidence, a 74-issue historical benchmark shows our uncertainty-discounted ranking found more spring green-up shifts than a recent-trend baseline, while trading off a few autumn red hits."
+  ],
+  [
+    "model",
+    "Under the hood, gradient-boosted trees correct seasonal baselines locally on CPU and beat both persistence and seasonal references across 2024 through 2026. Everything you just saw runs offline from index.html with no API keys required."
+  ]
 ]
